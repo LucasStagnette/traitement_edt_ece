@@ -1,0 +1,2797 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
+METHOD:PUBLISH
+X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de GROSLIÈRE Lucas 02/10/2006 g
+ énéré par le logiciel HP (©INDEX ÉDUCATION) le 18 sept. 2026 - OMNES 
+ Education (Campus PARIS) - valable sur la période du 03 août au 31 octob
+ re 2026 - Semaines : semaine 32 - 44
+X-WR-CALNAME;LANGUAGE=fr:HYP - GROSLIÈRE Lucas 02/10/2006 (<ECE Ing3-Fall
+ ><INIT ANGLAIS S5>Ing3 B2 (DU), <ECE Ing3-Fall><INIT CLASSES S5>Ing3 Gr DU
+ 01) - du 03 août au 31 octobre 2026
+X-CALEND:20261031T000000Z
+X-CALSTART:20260803T000000Z
+BEGIN:VEVENT
+SUMMARY:Anglais : Communication for engineers
+DTSTART:20260924T084500Z
+DTEND:20260924T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1987725-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
+ Enseignant : M. RYAN GREGORY\nTD : Ing3 B2 (DU)\nSalle : Salle EM312 (Labo
+ ratoire Electronique) - EIFFEL 1 (Meet-up)\nType : CRS-TD\n\nContenu péda
+ gogique de cette séance : \n<span style="font-weight:bold\;">contenu</spa
+ n><br /><div class="teams"></div><div class="sws"><div style="font-family:
+  arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel
+ ="noopener" href="https://app.sowesign.com" target="_blank">Appel en ligne
+ </a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><div 
+ class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-si
+ ze: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260916T123743Z
+LOCATION;LANGUAGE=fr:Salle EM312 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : Communication for engine
+ ers<br/>Enseignant : M. RYAN GREGORY<br/>TD : Ing3 B2 (DU)<br/>Salle : Sal
+ le EM312 (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS-TD
+ <br/><br/>Contenu pédagogique de cette séance : <br/><span style="font-w
+ eight:bold\;">contenu</span><br /><div class="teams"></div><div class="sws
+ "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt
+ \;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com" tar
+ get="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établissemen
+ t 7705</div><hr></div><div class="hp"><div style="font-family: arial\,helv
+ etica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...<
+ /div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anglais : Communication for engineers
+DTSTART:20261001T084500Z
+DTEND:20261001T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1987725-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
+ Enseignant : M. RYAN GREGORY\nTD : Ing3 B2 (DU)\nSalle : Salle EM319 - EIF
+ FEL 1\nType : CRS-TD\n\nContenu pédagogique de cette séance : \n<span st
+ yle="font-weight:bold\;">contenu</span><br /><div class="teams"></div><div
+  class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-
+ size: 13px\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesig
+ n.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code ét
+ ablissement 7705</div><hr></div><div class="hp"><div style="font-family: a
+ rial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documen
+ ts ici...</div></div>\n
+LAST-MODIFIED:20260916T123743Z
+LOCATION;LANGUAGE=fr:Salle EM319 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : Communication for engine
+ ers<br/>Enseignant : M. RYAN GREGORY<br/>TD : Ing3 B2 (DU)<br/>Salle : Sal
+ le EM319 - EIFFEL 1<br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cet
+ te séance : <br/><span style="font-weight:bold\;">contenu</span><br /><di
+ v class="teams"></div><div class="sws"><div style="font-family: arial\,hel
+ vetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener"
+  href="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><br
+ >SoWeSign avec le code établissement 7705</div><hr></div><div class="hp">
+ <div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"
+ >Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anglais : Communication for engineers
+DTSTART:20261008T084500Z
+DTEND:20261008T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1987725-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
+ Enseignant : M. RYAN GREGORY\nTD : Ing3 B2 (DU)\nSalle : Salle SC214 - EIF
+ FEL 1\nType : CRS-TD\n\nContenu pédagogique de cette séance : \n<span  s
+ tyle="color: Silver\;"><span style="font-weight:normal\; font-style:italic
+ \;">Sans titre</span></span>\n
+LAST-MODIFIED:20260916T123743Z
+LOCATION;LANGUAGE=fr:Salle SC214 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : Communication for engine
+ ers<br/>Enseignant : M. RYAN GREGORY<br/>TD : Ing3 B2 (DU)<br/>Salle : Sal
+ le SC214 - EIFFEL 1<br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cet
+ te séance : <br/><span  style="color: Silver\;"><span style="font-weight:
+ normal\; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anglais : Communication for engineers
+DTSTART:20261015T084500Z
+DTEND:20261015T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1987725-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
+ Enseignant : M. RYAN GREGORY\nTD : Ing3 B2 (DU)\nSalle : Salle EM322 - EIF
+ FEL 1\nType : CRS-TD\n\nContenu pédagogique de cette séance : \n<span  s
+ tyle="color: Silver\;"><span style="font-weight:normal\; font-style:italic
+ \;">Sans titre</span></span>\n
+LAST-MODIFIED:20260916T123743Z
+LOCATION;LANGUAGE=fr:Salle EM322 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : Communication for engine
+ ers<br/>Enseignant : M. RYAN GREGORY<br/>TD : Ing3 B2 (DU)<br/>Salle : Sal
+ le EM322 - EIFFEL 1<br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cet
+ te séance : <br/><span  style="color: Silver\;"><span style="font-weight:
+ normal\; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anglais : Communication for engineers
+DTSTART:20261029T094500Z
+DTEND:20261029T114500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1987725-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
+ Enseignant : M. RYAN GREGORY\nTD : Ing3 B2 (DU)\nType : CRS-TD\n\nContenu 
+ pédagogique de cette séance : \n<span  style="color: Silver\;"><span sty
+ le="font-weight:normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260916T123743Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : Communication for engine
+ ers<br/>Enseignant : M. RYAN GREGORY<br/>TD : Ing3 B2 (DU)<br/>Type : CRS-
+ TD<br/><br/>Contenu pédagogique de cette séance : <br/><span  style="col
+ or: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans 
+ titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anglais : MyCow
+DTSTART:20261010T063000Z
+DTEND:20261010T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2031672-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais : MyCow\nTD : Ing3 B2 (DU)\nTyp
+ e : ELEARNING\n
+LAST-MODIFIED:20260723T132735Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : MyCow<br/>TD : Ing3 B2 (
+ DU)<br/>Type : ELEARNING<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anglais : MyCow
+DTSTART:20261031T094500Z
+DTEND:20261031T114500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2031673-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Anglais : MyCow\nTD : Ing3 B2 (DU)\nTyp
+ e : ELEARNING\n
+LAST-MODIFIED:20260831T130300Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : MyCow<br/>TD : Ing3 B2 (
+ DU)<br/>Type : ELEARNING<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amphi de rentrée
+DTSTART:20260911T110000Z
+DTEND:20260911T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1993266-6-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Amphi de rentrée\nEnse
+ ignants : M. BORGNON LUCAS\, Mme COUDRAY FABIENNE\, Mme CRAMBES CHRISTINE
+ \, M. DELISLE LAURENT\, Mme GULDNER NAJMA\, M. LARDEUX GEOFFROY\, Mme LEYD
+ IER CATHERINE\, Mme PUZONE FARIOLI PATRICIA\, M. STEPHAN FRANCOIS\, Mme VA
+ RAKINE KARINE\nTD : Ing3 Gr DU01\, Ing3 Gr SL01\nSalle : Salle EM009 - Amp
+ hithéâtre - EIFFEL 1\nType : EVENEMENTS\n\nContenu pédagogique de cette
+  séance : \n<span style="font-weight:bold\;">contenu</span><br /><div cla
+ ss="teams"></div><div class="sws"><div style="font-family: arial\,helvetic
+ a\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href
+ ="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWe
+ Sign avec le code établissement 7705</div><hr></div><div class="hp"><div 
+ style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp
+ \, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260915T130351Z
+LOCATION;LANGUAGE=fr:Salle EM009 - Amphithéâtre - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Mémo : fermé<br/>Matière : Amphi de rentr
+ ée<br/>Enseignants : M. BORGNON LUCAS\, Mme COUDRAY FABIENNE\, Mme CRAMBE
+ S CHRISTINE\, M. DELISLE LAURENT\, Mme GULDNER NAJMA\, M. LARDEUX GEOFFROY
+ \, Mme LEYDIER CATHERINE\, Mme PUZONE FARIOLI PATRICIA\, M. STEPHAN FRANCO
+ IS\, Mme VARAKINE KARINE<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01<br/>Salle : 
+ Salle EM009 - Amphithéâtre - EIFFEL 1<br/>Type : EVENEMENTS<br/><br/>Con
+ tenu pédagogique de cette séance : <br/><span style="font-weight:bold\;"
+ >contenu</span><br /><div class="teams"></div><div class="sws"><div style=
+ "font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="
+ SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blank">A
+ ppel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><h
+ r></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-se
+ rif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br
+ />
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Présentation International
+DTSTART:20260911T131500Z
+DTEND:20260911T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1993288-6-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Présentation Internati
+ onal\nEnseignant : Mme COUDRAY FABIENNE\nTD : Ing3 Gr DU01\nSalle : Salle 
+ EM009 - Amphithéâtre - EIFFEL 1\nType : EVENEMENTS\n\nContenu pédagogiq
+ ue de cette séance : \n<span style="font-weight:bold\;">contenu</span><br
+  /><div class="teams"></div><div class="sws"><div style="font-family: aria
+ l\,helvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noo
+ pener" href="https://app.sowesign.com" target="_blank">Appel en ligne</a><
+ br><br>SoWeSign avec le code établissement 7705</div><hr></div><div class
+ ="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 1
+ 3px\;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260903T140801Z
+LOCATION;LANGUAGE=fr:Salle EM009 - Amphithéâtre - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Mémo : fermé<br/>Matière : Présentation I
+ nternational<br/>Enseignant : Mme COUDRAY FABIENNE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM009 - Amphithéâtre - EIFFEL 1<br/>Type : EVENEMENTS<b
+ r/><br/>Contenu pédagogique de cette séance : <br/><span style="font-wei
+ ght:bold\;">contenu</span><br /><div class="teams"></div><div class="sws">
+ <div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"
+ ><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com" target
+ ="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7
+ 705</div><hr></div><div class="hp"><div style="font-family: arial\,helveti
+ ca\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...</di
+ v></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Présentation Stage ING3
+DTSTART:20260911T141500Z
+DTEND:20260911T151500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1993289-6-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Présentation Stage ING
+ 3\nEnseignants : Mme COUDRAY FABIENNE\, M. DACHER NICOLAS\nTD : Ing3 Gr DU
+ 01\nSalle : Salle EM009 - Amphithéâtre - EIFFEL 1\nType : EVENEMENTS\n\n
+ Contenu pédagogique de cette séance : \n<span style="font-weight:bold\;"
+ >contenu</span><br /><div class="teams"></div><div class="sws"><div style=
+ "font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="
+ SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blank">A
+ ppel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><h
+ r></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-se
+ rif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260903T140801Z
+LOCATION;LANGUAGE=fr:Salle EM009 - Amphithéâtre - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Mémo : fermé<br/>Matière : Présentation S
+ tage ING3<br/>Enseignants : Mme COUDRAY FABIENNE\, M. DACHER NICOLAS<br/>T
+ D : Ing3 Gr DU01<br/>Salle : Salle EM009 - Amphithéâtre - EIFFEL 1<br/>T
+ ype : EVENEMENTS<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an style="font-weight:bold\;">contenu</span><br /><div class="teams"></div
+ ><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; 
+ font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.so
+ wesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le cod
+ e établissement 7705</div><hr></div><div class="hp"><div style="font-fami
+ ly: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos do
+ cuments ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gestion de Projet
+DTSTART:20260918T131500Z
+DTEND:20260918T151500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1993509-7-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nEnseignant : Mme ROU
+ VEIX FLORENCE\nTD : Ing3 Gr DU01\, Ing3 Gr SL01\nType : CRS-CM-CV\n\nConte
+ nu pédagogique de cette séance : \n<span style="font-weight:bold\;">cont
+ enu</span><br /><div class="teams"><div style="font-family: arial\,helveti
+ ca\,sans-serif\; font-size: 13px\;"><a title="Cliquez-la" rel="noopener" h
+ ref="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTI1NTBkNWUtYW
+ E3Ny00MjBiLWFjMTQtMjQwOTQxN2M5ZWRi%40thread.v2/0?context=%7b%22Tid%22%3a%2
+ 2a2697119-66c5-4126-9991-b0a8d15d367f%22%2c%22Oid%22%3a%228ab8befa-d3b5-49
+ cf-8e27-505832ac67ee%22%7d" target="_blank">Rejoindre le cours en ligne</a
+ ></div><hr></div><div class="sws"><div style="font-family: arial\,helvetic
+ a\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href
+ ="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWe
+ Sign avec le code établissement 7705</div><hr></div><div class="hp"><div 
+ style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp
+ \, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260909T103733Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>Enseignant :
+  Mme ROUVEIX FLORENCE<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01<br/>Type : CRS-
+ CM-CV<br/><br/>Contenu pédagogique de cette séance : <br/><span style="f
+ ont-weight:bold\;">contenu</span><br /><div class="teams"><div style="font
+ -family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="Cliqu
+ ez-la" rel="noopener" href="https://teams.microsoft.com/l/meetup-join/19%3
+ ameeting_ZTI1NTBkNWUtYWE3Ny00MjBiLWFjMTQtMjQwOTQxN2M5ZWRi%40thread.v2/0?co
+ ntext=%7b%22Tid%22%3a%22a2697119-66c5-4126-9991-b0a8d15d367f%22%2c%22Oid%2
+ 2%3a%228ab8befa-d3b5-49cf-8e27-505832ac67ee%22%7d" target="_blank">Rejoind
+ re le cours en ligne</a></div><hr></div><div class="sws"><div style="font-
+ family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSi
+ gn" rel="noopener" href="https://app.sowesign.com" target="_blank">Appel e
+ n ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></di
+ v><div class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; 
+ font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Travailler en entreprise
+DTSTART:20261016T120000Z
+DTEND:20261016T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1993915-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
+ Mme MAILLARD VAITE\nTD : Ing3 Gr DU01\nSalle : Salle G015 - EIFFEL 4\nType
+  : CRS-TD\n
+LAST-MODIFIED:20260805T103508Z
+LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4
+X-ALT-DESC;FMTTYPE=text/html:Matière : Travailler en entreprise<br/>Ensei
+ gnant : Mme MAILLARD VAITE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G015 - 
+ EIFFEL 4<br/>Type : CRS-TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Travailler en entreprise
+DTSTART:20261028T073000Z
+DTEND:20261028T093000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1993918-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
+ Mme MAILLARD VAITE\nTD : Ing3 Gr DU01\nType : CRS-TD\n
+LAST-MODIFIED:20260806T124833Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Travailler en entreprise<br/>Ensei
+ gnant : Mme MAILLARD VAITE<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prise de Parole
+DTSTART:20260925T141500Z
+DTEND:20260925T151500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1993981-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
+ CHRISTOPHE\nTD : Ing3 Gr DU01\nSalle : Salle SC004 - EIFFEL 1\nType : CRS-
+ TD\n\nContenu pédagogique de cette séance : \n<span style="font-weight:b
+ old\;">contenu</span><br /><div class="teams"></div><div class="sws"><div 
+ style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a t
+ itle="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_bl
+ ank">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</
+ div><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,s
+ ans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></d
+ iv>\n
+LAST-MODIFIED:20260731T085754Z
+LOCATION;LANGUAGE=fr:Salle SC004 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prise de Parole<br/>Enseignant : M
+ . BEDIN CHRISTOPHE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC004 - EIFFEL 
+ 1<br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cette séance : <br/>
+ <span style="font-weight:bold\;">contenu</span><br /><div class="teams"></
+ div><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif
+ \; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app
+ .sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le 
+ code établissement 7705</div><hr></div><div class="hp"><div style="font-f
+ amily: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos
+  documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prise de Parole
+DTSTART:20261002T063000Z
+DTEND:20261002T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1993982-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
+ CHRISTOPHE\nTD : Ing3 Gr DU01\nSalle : Salle EM317 - EIFFEL 1\nType : CRS-
+ TD\n\nContenu pédagogique de cette séance : \n<span style="font-weight:b
+ old\;">contenu</span><br /><div class="teams"></div><div class="sws"><div 
+ style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a t
+ itle="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_bl
+ ank">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</
+ div><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,s
+ ans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></d
+ iv>\n
+LAST-MODIFIED:20260731T125413Z
+LOCATION;LANGUAGE=fr:Salle EM317 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prise de Parole<br/>Enseignant : M
+ . BEDIN CHRISTOPHE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM317 - EIFFEL 
+ 1<br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cette séance : <br/>
+ <span style="font-weight:bold\;">contenu</span><br /><div class="teams"></
+ div><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif
+ \; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app
+ .sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le 
+ code établissement 7705</div><hr></div><div class="hp"><div style="font-f
+ amily: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos
+  documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prise de Parole
+DTSTART:20261009T063000Z
+DTEND:20261009T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1993982-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
+ CHRISTOPHE\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique de ce
+ tte séance : \n<span  style="color: Silver\;"><span style="font-weight:no
+ rmal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260731T125413Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prise de Parole<br/>Enseignant : M
+ . BEDIN CHRISTOPHE<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>Conten
+ u pédagogique de cette séance : <br/><span  style="color: Silver\;"><spa
+ n style="font-weight:normal\; font-style:italic\;">Sans titre</span></span
+ ><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bases de gestion
+DTSTART:20260925T120000Z
+DTEND:20260925T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994153-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
+  FRANCESCO\nTD : Ing3 Gr DU01\nSalle : Salle EM224 (Laboratoire Electroniq
+ ue) - EIFFEL 1 (Meet-up)\nType : CRS\n\nContenu pédagogique de cette séa
+ nce : \n<span style="font-weight:bold\;">contenu</span><br /><div class="t
+ eams"></div><div class="sws"><div style="font-family: arial\,helvetica\,sa
+ ns-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="htt
+ ps://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign 
+ avec le code établissement 7705</div><hr></div><div class="hp"><div style
+ ="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajo
+ utez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260731T072626Z
+LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
+ M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM224 (Laborato
+ ire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS<br/><br/>Contenu pé
+ dagogique de cette séance : <br/><span style="font-weight:bold\;">contenu
+ </span><br /><div class="teams"></div><div class="sws"><div style="font-fa
+ mily: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign
+ " rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en 
+ ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div>
+ <div class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; fo
+ nt-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bases de gestion
+DTSTART:20261026T120000Z
+DTEND:20261026T140000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994183-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
+  FRANCESCO\nTD : Ing3 Gr DU01\nSalle : Salle EM314 (Laboratoire Electroniq
+ ue / Informatique) - EIFFEL 1 (Meet-up)\nType : CRS\n\nContenu pédagogiqu
+ e de cette séance : \n<span  style="color: Silver\;"><span style="font-we
+ ight:normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260805T070447Z
+LOCATION;LANGUAGE=fr:Salle EM314 (Laboratoire Electronique / Informatique)
+  - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
+ M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM314 (Laborato
+ ire Electronique / Informatique) - EIFFEL 1 (Meet-up)<br/>Type : CRS<br/><
+ br/>Contenu pédagogique de cette séance : <br/><span  style="color: Silv
+ er\;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</s
+ pan></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bases de gestion
+DTSTART:20261001T063000Z
+DTEND:20261001T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994222-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
+  FRANCESCO\nTD : Ing3 Gr DU01\nSalle : Salle EM319 - EIFFEL 1\nType : CRS
+ \n\nContenu pédagogique de cette séance : \n<span style="font-weight:bol
+ d\;">contenu</span><br /><div class="teams"></div><div class="sws"><div st
+ yle="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a tit
+ le="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blan
+ k">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</di
+ v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div
+ >\n
+LAST-MODIFIED:20260908T061911Z
+LOCATION;LANGUAGE=fr:Salle EM319 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
+ M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM319 - EIFFEL 
+ 1<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an style="font-weight:bold\;">contenu</span><br /><div class="teams"></div
+ ><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; 
+ font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.so
+ wesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le cod
+ e établissement 7705</div><hr></div><div class="hp"><div style="font-fami
+ ly: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos do
+ cuments ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bases de gestion
+DTSTART:20261015T063000Z
+DTEND:20261015T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994222-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
+  FRANCESCO\nTD : Ing3 Gr DU01\nType : CRS\n\nContenu pédagogique de cette
+  séance : \n<span  style="color: Silver\;"><span style="font-weight:norma
+ l\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260908T061911Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
+ M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Type : CRS<br/><br/>Contenu p
+ édagogique de cette séance : <br/><span  style="color: Silver\;"><span s
+ tyle="font-weight:normal\; font-style:italic\;">Sans titre</span></span><b
+ r/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gestion de Projet
+DTSTART:20261009T153000Z
+DTEND:20261009T173000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994527-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
+ ype : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  style=
+ "color: Silver\;"><span style="font-weight:normal\; font-style:italic\;">S
+ ans titre</span></span>\n
+LAST-MODIFIED:20260831T125716Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
+  DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
+ : <br/><span  style="color: Silver\;"><span style="font-weight:normal\; fo
+ nt-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gestion de Projet
+DTSTART:20260926T063000Z
+DTEND:20260926T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994541-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
+ ype : ELEARNING\n\nContenu pédagogique de cette séance : \n<span style="
+ font-weight:bold\;">contenu</span><br /><div class="teams"></div><div clas
+ s="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-size:
+  13px\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com
+ " target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établis
+ sement 7705</div><hr></div><div class="hp"><div style="font-family: arial
+ \,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents i
+ ci...</div></div>\n
+LAST-MODIFIED:20260707T095805Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
+  DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
+ : <br/><span style="font-weight:bold\;">contenu</span><br /><div class="te
+ ams"></div><div class="sws"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="http
+ s://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign a
+ vec le code établissement 7705</div><hr></div><div class="hp"><div style=
+ "font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajou
+ tez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gestion de Projet
+DTSTART:20261003T063000Z
+DTEND:20261003T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994541-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
+ ype : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  style=
+ "color: Silver\;"><span style="font-weight:normal\; font-style:italic\;">S
+ ans titre</span></span>\n
+LAST-MODIFIED:20260707T095805Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
+  DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
+ : <br/><span  style="color: Silver\;"><span style="font-weight:normal\; fo
+ nt-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gestion de Projet
+DTSTART:20261017T063000Z
+DTEND:20261017T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994541-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
+ ype : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  style=
+ "color: Silver\;"><span style="font-weight:normal\; font-style:italic\;">S
+ ans titre</span></span>\n
+LAST-MODIFIED:20260707T095805Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
+  DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
+ : <br/><span  style="color: Silver\;"><span style="font-weight:normal\; fo
+ nt-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gestion de Projet
+DTSTART:20261029T141500Z
+DTEND:20261029T161500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994543-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
+ ype : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  style=
+ "color: Silver\;"><span style="font-weight:normal\; font-style:italic\;">S
+ ans titre</span></span>\n
+LAST-MODIFIED:20260723T132753Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
+  DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
+ : <br/><span  style="color: Silver\;"><span style="font-weight:normal\; fo
+ nt-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Développement Durable
+DTSTART:20260919T063000Z
+DTEND:20260919T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994760-7-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
+ 01\nType : ELEARNING\n\nContenu pédagogique de cette séance : \n<span st
+ yle="font-weight:bold\;">contenu</span><br /><div class="teams"></div><div
+  class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-
+ size: 13px\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesig
+ n.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code ét
+ ablissement 7705</div><hr></div><div class="hp"><div style="font-family: a
+ rial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documen
+ ts ici...</div></div>\n
+LAST-MODIFIED:20260707T101704Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Développement Durable<br/>TD : In
+ g3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette sé
+ ance : <br/><span style="font-weight:bold\;">contenu</span><br /><div clas
+ s="teams"></div><div class="sws"><div style="font-family: arial\,helvetica
+ \,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href=
+ "https://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeS
+ ign avec le code établissement 7705</div><hr></div><div class="hp"><div s
+ tyle="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\,
+  ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Développement Durable
+DTSTART:20261005T153000Z
+DTEND:20261005T173000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994765-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
+ 01\nType : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  s
+ tyle="color: Silver\;"><span style="font-weight:normal\; font-style:italic
+ \;">Sans titre</span></span>\n
+LAST-MODIFIED:20260831T125413Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Développement Durable<br/>TD : In
+ g3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette sé
+ ance : <br/><span  style="color: Silver\;"><span style="font-weight:normal
+ \; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Développement Durable
+DTSTART:20261013T164500Z
+DTEND:20261013T184500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994774-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
+ 01\nType : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  s
+ tyle="color: Silver\;"><span style="font-weight:normal\; font-style:italic
+ \;">Sans titre</span></span>\n
+LAST-MODIFIED:20260723T132525Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Développement Durable<br/>TD : In
+ g3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette sé
+ ance : <br/><span  style="color: Silver\;"><span style="font-weight:normal
+ \; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Développement Durable
+DTSTART:20261003T153000Z
+DTEND:20261003T173000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-1994777-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
+ 01\nType : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  s
+ tyle="color: Silver\;"><span style="font-weight:normal\; font-style:italic
+ \;">Sans titre</span></span>\n
+LAST-MODIFIED:20260710T064551Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Développement Durable<br/>TD : In
+ g3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette sé
+ ance : <br/><span  style="color: Silver\;"><span style="font-weight:normal
+ \; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Développement Durable
+DTSTART:20261030T163000Z
+DTEND:20261030T183000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2002841-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
+ 01\nType : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  s
+ tyle="color: Silver\;"><span style="font-weight:normal\; font-style:italic
+ \;">Sans titre</span></span>\n
+LAST-MODIFIED:20260723T132740Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Développement Durable<br/>TD : In
+ g3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette sé
+ ance : <br/><span  style="color: Silver\;"><span style="font-weight:normal
+ \; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Promotion école
+DTSTART:20261008T110000Z
+DTEND:20261008T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2002844-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Promotion école\nEnseignant : Mme CONT
+ AUT LAURENCE\nTD : Ing3 Gr DU01\, Ing3 Gr SL01\nSalle : Salle EM010 - Amph
+ ithéâtre - EIFFEL 1\nType : CRS-ATLIER\n
+LAST-MODIFIED:20260909T104756Z
+LOCATION;LANGUAGE=fr:Salle EM010 - Amphithéâtre - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Promotion école<br/>Enseignant : 
+ Mme CONTAUT LAURENCE<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01<br/>Salle : Sall
+ e EM010 - Amphithéâtre - EIFFEL 1<br/>Type : CRS-ATLIER<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Promotion école
+DTSTART:20261003T120000Z
+DTEND:20261003T140000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2002845-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Mémo : amphi 9\nMatière : Promotion école\nEnse
+ ignant : Mme CONTAUT LAURENCE\nTD : Ing3 Gr DU01\, Ing3 Gr SL01\nSalle : S
+ alle EM009 - Amphithéâtre - EIFFEL 1\nType : CRS-ATLIER\n
+LAST-MODIFIED:20260909T104756Z
+LOCATION;LANGUAGE=fr:Salle EM009 - Amphithéâtre - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Mémo : amphi 9<br/>Matière : Promotion éco
+ le<br/>Enseignant : Mme CONTAUT LAURENCE<br/>TD : Ing3 Gr DU01\, Ing3 Gr S
+ L01<br/>Salle : Salle EM009 - Amphithéâtre - EIFFEL 1<br/>Type : CRS-ATL
+ IER<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20261030T080000Z
+DTEND:20261030T093000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2009726-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nTD : Ing3 Gr DU01\nSa
+ lle : Salle EM111 - EIFFEL 1\nType : EVALUATION\n\nContenu pédagogique de
+  cette séance : \n<span  style="color: Silver\;"><span style="font-weight
+ :normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260907T070139Z
+LOCATION;LANGUAGE=fr:Salle EM111 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>TD : Ing3 Gr 
+ DU01<br/>Salle : Salle EM111 - EIFFEL 1<br/>Type : EVALUATION<br/><br/>Con
+ tenu pédagogique de cette séance : <br/><span  style="color: Silver\;"><
+ span style="font-weight:normal\; font-style:italic\;">Sans titre</span></s
+ pan><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20260922T110000Z
+DTEND:20260922T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2009784-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
+ JAL SANA\nTD : Ing3 Gr DU01\nSalle : Salle SC110 - EIFFEL 1\nType : CRS-TD
+ \n\nContenu pédagogique de cette séance : \n<span style="font-weight:bol
+ d\;">contenu</span><br /><div class="teams"></div><div class="sws"><div st
+ yle="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a tit
+ le="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blan
+ k">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</di
+ v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div
+ >\n
+LAST-MODIFIED:20260907T094004Z
+LOCATION;LANGUAGE=fr:Salle SC110 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC110 - EIFFEL 1<
+ br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cette séance : <br/><s
+ pan style="font-weight:bold\;">contenu</span><br /><div class="teams"></di
+ v><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\;
+  font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.s
+ owesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le co
+ de établissement 7705</div><hr></div><div class="hp"><div style="font-fam
+ ily: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos d
+ ocuments ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20261007T084500Z
+DTEND:20261007T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2009793-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
+ JAL SANA\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique de cett
+ e séance : \n<span  style="color: Silver\;"><span style="font-weight:norm
+ al\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260831T125806Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>Contenu 
+ pédagogique de cette séance : <br/><span  style="color: Silver\;"><span 
+ style="font-weight:normal\; font-style:italic\;">Sans titre</span></span><
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20260914T084500Z
+DTEND:20260914T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2009802-7-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
+ S RAFIC\nTD : Ing3 Gr DU01\nSalle : Salle G017- E4\nType : CRS\n\nContenu 
+ pédagogique de cette séance : \n<span style="font-weight:bold\;">contenu
+ </span><br /><div class="teams"></div><div class="sws"><div style="font-fa
+ mily: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign
+ " rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en 
+ ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div>
+ <div class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; fo
+ nt-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260729T100900Z
+LOCATION;LANGUAGE=fr:Salle G017- E4
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G017- E4<br/>Type 
+ : CRS<br/><br/>Contenu pédagogique de cette séance : <br/><span style="f
+ ont-weight:bold\;">contenu</span><br /><div class="teams"></div><div class
+ ="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 
+ 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com"
+  target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établiss
+ ement 7705</div><hr></div><div class="hp"><div style="font-family: arial\,
+ helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici
+ ...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20261026T094500Z
+DTEND:20261026T114500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2009802-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
+ S RAFIC\nTD : Ing3 Gr DU01\nType : CRS\n\nContenu pédagogique de cette s
+ éance : \n<span  style="color: Silver\;"><span style="font-weight:normal
+ \; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260729T100900Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Type : CRS<br/><br/>Contenu péd
+ agogique de cette séance : <br/><span  style="color: Silver\;"><span styl
+ e="font-weight:normal\; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20260914T063000Z
+DTEND:20260914T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2009833-7-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
+ S RAFIC\nTD : Ing3 Gr DU01\nSalle : Salle G017- E4\nType : CRS\n\nContenu 
+ pédagogique de cette séance : \n<span style="font-weight:bold\;">contenu
+ </span><br /><div class="teams"></div><div class="sws"><div style="font-fa
+ mily: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign
+ " rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en 
+ ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div>
+ <div class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; fo
+ nt-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260916T092050Z
+LOCATION;LANGUAGE=fr:Salle G017- E4
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G017- E4<br/>Type 
+ : CRS<br/><br/>Contenu pédagogique de cette séance : <br/><span style="f
+ ont-weight:bold\;">contenu</span><br /><div class="teams"></div><div class
+ ="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 
+ 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com"
+  target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établiss
+ ement 7705</div><hr></div><div class="hp"><div style="font-family: arial\,
+ helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici
+ ...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20260921T063000Z
+DTEND:20260921T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2009833-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
+ S RAFIC\nTD : Ing3 Gr DU01\nSalle : Salle SC210 - EIFFEL 1\nType : CRS\n\n
+ Contenu pédagogique de cette séance : \n<span style="font-weight:bold\;"
+ >contenu</span><br /><div class="teams"></div><div class="sws"><div style=
+ "font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="
+ SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blank">A
+ ppel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><h
+ r></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-se
+ rif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260916T092050Z
+LOCATION;LANGUAGE=fr:Salle SC210 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC210 - EIFFEL 1<b
+ r/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br/><span 
+ style="font-weight:bold\;">contenu</span><br /><div class="teams"></div><d
+ iv class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; fon
+ t-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sowes
+ ign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code 
+ établissement 7705</div><hr></div><div class="hp"><div style="font-family
+ : arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos docu
+ ments ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20260928T063000Z
+DTEND:20260928T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2009833-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
+ S RAFIC\nTD : Ing3 Gr DU01\nSalle : Salle G017- E4\nType : CRS\n\nContenu 
+ pédagogique de cette séance : \n<span style="font-weight:bold\;">contenu
+ </span><br /><div class="teams"></div><div class="sws"><div style="font-fa
+ mily: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign
+ " rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en 
+ ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div>
+ <div class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; fo
+ nt-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260916T092050Z
+LOCATION;LANGUAGE=fr:Salle G017- E4
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G017- E4<br/>Type 
+ : CRS<br/><br/>Contenu pédagogique de cette séance : <br/><span style="f
+ ont-weight:bold\;">contenu</span><br /><div class="teams"></div><div class
+ ="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 
+ 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com"
+  target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établiss
+ ement 7705</div><hr></div><div class="hp"><div style="font-family: arial\,
+ helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici
+ ...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20261005T063000Z
+DTEND:20261005T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2009833-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
+ JAL SANA\nTD : Ing3 Gr DU01\nSalle : Salle EM227 - EIFFEL 1 (Meet-up)\nTyp
+ e : CRS\n\nContenu pédagogique de cette séance : \n<span  style="color: 
+ Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans titr
+ e</span></span>\n
+LAST-MODIFIED:20260916T092050Z
+LOCATION;LANGUAGE=fr:Salle EM227 - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM227 - EIFFEL 1 
+ (Meet-up)<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : 
+ <br/><span  style="color: Silver\;"><span style="font-weight:normal\; font
+ -style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20261012T063000Z
+DTEND:20261012T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2009833-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
+ S RAFIC\nTD : Ing3 Gr DU01\nType : CRS\n\nContenu pédagogique de cette s
+ éance : \n<span  style="color: Silver\;"><span style="font-weight:normal
+ \; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260916T092050Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Type : CRS<br/><br/>Contenu péd
+ agogique de cette séance : <br/><span  style="color: Silver\;"><span styl
+ e="font-weight:normal\; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20261016T063000Z
+DTEND:20261016T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2009844-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
+ S RAFIC\nTD : Ing3 Gr DU01\nType : CRS\n\nContenu pédagogique de cette s
+ éance : \n<span  style="color: Silver\;"><span style="font-weight:normal
+ \; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260806T104056Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Type : CRS<br/><br/>Contenu péd
+ agogique de cette séance : <br/><span  style="color: Silver\;"><span styl
+ e="font-weight:normal\; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20261013T084500Z
+DTEND:20261013T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010067-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nType : CRS\n\nContenu pédagogique de 
+ cette séance : \n<span  style="color: Silver\;"><span style="font-weight:
+ normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260807T083111Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Type : CRS<br/><br/>Cont
+ enu pédagogique de cette séance : <br/><span  style="color: Silver\;"><s
+ pan style="font-weight:normal\; font-style:italic\;">Sans titre</span></sp
+ an><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20261027T094500Z
+DTEND:20261027T114500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010067-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nType : CRS\n\nContenu pédagogique de 
+ cette séance : \n<span  style="color: Silver\;"><span style="font-weight:
+ normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260807T083111Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Type : CRS<br/><br/>Cont
+ enu pédagogique de cette séance : <br/><span  style="color: Silver\;"><s
+ pan style="font-weight:normal\; font-style:italic\;">Sans titre</span></sp
+ an><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20260924T063000Z
+DTEND:20260924T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010076-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nSalle : Salle EM126 - E1\nType : CRS\n
+ \nContenu pédagogique de cette séance : \n<span style="font-weight:bold
+ \;">contenu</span><br /><div class="teams"></div><div class="sws"><div sty
+ le="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a titl
+ e="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blank
+ ">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div
+ ><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,sans
+ -serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>
+ \n
+LAST-MODIFIED:20260918T071601Z
+LOCATION;LANGUAGE=fr:Salle EM126 - E1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM126 - E1
+ <br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br/><spa
+ n style="font-weight:bold\;">contenu</span><br /><div class="teams"></div>
+ <div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; f
+ ont-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sow
+ esign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code
+  établissement 7705</div><hr></div><div class="hp"><div style="font-famil
+ y: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos doc
+ uments ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20261028T130000Z
+DTEND:20261028T140000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010117-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique 
+ de cette séance : \n<span  style="color: Silver\;"><span style="font-weig
+ ht:normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260911T095957Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>C
+ ontenu pédagogique de cette séance : <br/><span  style="color: Silver\;"
+ ><span style="font-weight:normal\; font-style:italic\;">Sans titre</span><
+ /span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20261016T084500Z
+DTEND:20261016T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010130-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique 
+ de cette séance : \n<span  style="color: Silver\;"><span style="font-weig
+ ht:normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260831T130146Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>C
+ ontenu pédagogique de cette séance : <br/><span  style="color: Silver\;"
+ ><span style="font-weight:normal\; font-style:italic\;">Sans titre</span><
+ /span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20260918T063000Z
+DTEND:20260918T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010131-7-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Electromagnétisme\nEns
+ eignant : Mme CRAMBES CHRISTINE\nTD : Ing3 Gr DU01\nSalle : Salle EM226 - 
+ EIFFEL 1 (Meet-up)\nType : CRS\n\nContenu pédagogique de cette séance : 
+ \n<span style="font-weight:bold\;">contenu</span><br /><div class="teams">
+ </div><div class="sws"><div style="font-family: arial\,helvetica\,sans-ser
+ if\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https://a
+ pp.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec l
+ e code établissement 7705</div><hr></div><div class="hp"><div style="font
+ -family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez v
+ os documents ici...</div></div>\n
+LAST-MODIFIED:20260903T141754Z
+LOCATION;LANGUAGE=fr:Salle EM226 - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Mémo : fermé<br/>Matière : Electromagnéti
+ sme<br/>Enseignant : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle
+  : Salle EM226 - EIFFEL 1 (Meet-up)<br/>Type : CRS<br/><br/>Contenu pédag
+ ogique de cette séance : <br/><span style="font-weight:bold\;">contenu</s
+ pan><br /><div class="teams"></div><div class="sws"><div style="font-famil
+ y: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" r
+ el="noopener" href="https://app.sowesign.com" target="_blank">Appel en lig
+ ne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><di
+ v class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-
+ size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20260922T063000Z
+DTEND:20260922T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010418-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
+  Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle EM312 (Laboratoire E
+ lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
+ e cette séance : \n<span style="font-weight:bold\;">contenu</span><br /><
+ div class="teams"></div><div class="sws"><div style="font-family: arial\,h
+ elvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopene
+ r" href="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><
+ br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
+ "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
+ \;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260904T074555Z
+LOCATION;LANGUAGE=fr:Salle EM312 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
+ ignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM312 
+ (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS-TP<br/><br/
+ >Contenu pédagogique de cette séance : <br/><span style="font-weight:bol
+ d\;">contenu</span><br /><div class="teams"></div><div class="sws"><div st
+ yle="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a tit
+ le="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blan
+ k">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</di
+ v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div
+ ><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20261008T063000Z
+DTEND:20261008T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010437-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
+  Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle EM314 (Laboratoire E
+ lectronique / Informatique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu
+  pédagogique de cette séance : \n<span  style="color: Silver\;"><span st
+ yle="font-weight:normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260729T140135Z
+LOCATION;LANGUAGE=fr:Salle EM314 (Laboratoire Electronique / Informatique)
+  - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
+ ignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM314 
+ (Laboratoire Electronique / Informatique) - EIFFEL 1 (Meet-up)<br/>Type : 
+ CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><span  style=
+ "color: Silver\;"><span style="font-weight:normal\; font-style:italic\;">S
+ ans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20261026T151500Z
+DTEND:20261026T161500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010480-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Mémo : Soutenance\nMatière : Prototypage électr
+ onique\nEnseignant : Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle 
+ EM326 (Laboratoire Electronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nCo
+ ntenu pédagogique de cette séance : \n<span  style="color: Silver\;"><sp
+ an style="font-weight:normal\; font-style:italic\;">Sans titre</span></spa
+ n>\n
+LAST-MODIFIED:20260729T140342Z
+LOCATION;LANGUAGE=fr:Salle EM326 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Mémo : Soutenance<br/>Matière : Prototypage
+  électronique<br/>Enseignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM326 (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/
+ >Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><span
+   style="color: Silver\;"><span style="font-weight:normal\; font-style:ita
+ lic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20261028T094500Z
+DTEND:20261028T114500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010483-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Mémo : Soutenance\nMatière : Prototypage électr
+ onique\nEnseignant : Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle 
+ EM216 (Laboratoire Electronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nCo
+ ntenu pédagogique de cette séance : \n<span  style="color: Silver\;"><sp
+ an style="font-weight:normal\; font-style:italic\;">Sans titre</span></spa
+ n>\n
+LAST-MODIFIED:20260729T140404Z
+LOCATION;LANGUAGE=fr:Salle EM216 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Mémo : Soutenance<br/>Matière : Prototypage
+  électronique<br/>Enseignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM216 (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/
+ >Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><span
+   style="color: Silver\;"><span style="font-weight:normal\; font-style:ita
+ lic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20261026T163000Z
+DTEND:20261026T173000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010488-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Mémo : Soutenance\nMatière : Prototypage électr
+ onique\nEnseignant : Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle 
+ EM326 (Laboratoire Electronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nCo
+ ntenu pédagogique de cette séance : \n<span  style="color: Silver\;"><sp
+ an style="font-weight:normal\; font-style:italic\;">Sans titre</span></spa
+ n>\n
+LAST-MODIFIED:20260729T140342Z
+LOCATION;LANGUAGE=fr:Salle EM326 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Mémo : Soutenance<br/>Matière : Prototypage
+  électronique<br/>Enseignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM326 (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/
+ >Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><span
+   style="color: Silver\;"><span style="font-weight:normal\; font-style:ita
+ lic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20261005T084500Z
+DTEND:20261005T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010507-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
+ JAL SANA\nTD : Ing3 Gr DU01\nSalle : Salle EM226 - EIFFEL 1 (Meet-up)\nTyp
+ e : CRS\n\nContenu pédagogique de cette séance : \n<span  style="color: 
+ Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans titr
+ e</span></span>\n
+LAST-MODIFIED:20260916T092050Z
+LOCATION;LANGUAGE=fr:Salle EM226 - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM226 - EIFFEL 1 
+ (Meet-up)<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : 
+ <br/><span  style="color: Silver\;"><span style="font-weight:normal\; font
+ -style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20260928T120000Z
+DTEND:20260928T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010510-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
+  Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle EM222 (Laboratoire E
+ lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
+ e cette séance : \n<span style="font-weight:bold\;">contenu</span><br /><
+ div class="teams"></div><div class="sws"><div style="font-family: arial\,h
+ elvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopene
+ r" href="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><
+ br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
+ "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
+ \;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260915T115606Z
+LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
+ ignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM222 
+ (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS-TP<br/><br/
+ >Contenu pédagogique de cette séance : <br/><span style="font-weight:bol
+ d\;">contenu</span><br /><div class="teams"></div><div class="sws"><div st
+ yle="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a tit
+ le="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blan
+ k">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</di
+ v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div
+ ><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20261005T120000Z
+DTEND:20261005T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010510-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
+  Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle EM312 (Laboratoire E
+ lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
+ e cette séance : \n<span  style="color: Silver\;"><span style="font-weigh
+ t:normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260915T115606Z
+LOCATION;LANGUAGE=fr:Salle EM312 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
+ ignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM312 
+ (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS-TP<br/><br/
+ >Contenu pédagogique de cette séance : <br/><span  style="color: Silver
+ \;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</spa
+ n></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soutien Prototypage élec
+DTSTART:20261029T163000Z
+DTEND:20261029T183000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010536-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Soutien Prototypage élec\nEnseignant :
+  M. LE GALL ALAIN\nTD : Ing3 Gr DU01\, Ing3 Gr SL01\nType : CRS-TD-CV\n
+LAST-MODIFIED:20260909T104742Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Soutien Prototypage élec<br/>Ense
+ ignant : M. LE GALL ALAIN<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01<br/>Type : 
+ CRS-TD-CV<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261009T084500Z
+DTEND:20261009T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010929-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nType : CRS-
+ TP\n\nContenu pédagogique de cette séance : \n<span  style="color: Silve
+ r\;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</sp
+ an></span>\n
+LAST-MODIFIED:20260831T125757Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an  style="color: Silver\;"><span style="font-weight:normal\; font-style:i
+ talic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Travailler en entreprise
+DTSTART:20261016T131500Z
+DTEND:20261016T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2010945-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
+ Mme MAILLARD VAITE\nTD : Ing3 Gr DU01\nSalle : Salle G015 - EIFFEL 4\nType
+  : CRS-TD\n
+LAST-MODIFIED:20260805T103508Z
+LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4
+X-ALT-DESC;FMTTYPE=text/html:Matière : Travailler en entreprise<br/>Ensei
+ gnant : Mme MAILLARD VAITE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G015 - 
+ EIFFEL 4<br/>Type : CRS-TD<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261002T120000Z
+DTEND:20261002T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011019-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le EM323 - EIFFEL 1\nType : CRS-TP\n\nContenu pédagogique de cette séanc
+ e : \n<span style="font-weight:bold\;">contenu</span><br /><div class="tea
+ ms"></div><div class="sws"><div style="font-family: arial\,helvetica\,sans
+ -serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https
+ ://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign av
+ ec le code établissement 7705</div><hr></div><div class="hp"><div style="
+ font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
+ ez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260731T125450Z
+LOCATION;LANGUAGE=fr:Salle EM323 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM323 - EIFFEL 1<br/>Type : CRS-TP<br/><br/>Contenu péda
+ gogique de cette séance : <br/><span style="font-weight:bold\;">contenu</
+ span><br /><div class="teams"></div><div class="sws"><div style="font-fami
+ ly: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" 
+ rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en li
+ gne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><d
+ iv class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font
+ -size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261030T130000Z
+DTEND:20261030T140000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011019-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nType : CRS-
+ TP\n\nContenu pédagogique de cette séance : \n<span  style="color: Silve
+ r\;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</sp
+ an></span>\n
+LAST-MODIFIED:20260731T125450Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an  style="color: Silver\;"><span style="font-weight:normal\; font-style:i
+ talic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20260914T153000Z
+DTEND:20260914T163000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011037-7-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nSalle : Salle EM317 - EIFFEL 1\nType :
+  CRS\n\nContenu pédagogique de cette séance : \n<span style="font-weight
+ :bold\;">contenu</span><br /><div class="teams"></div><div class="sws"><di
+ v style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a
+  title="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_
+ blank">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705
+ </div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
+ \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
+ </div>\n
+LAST-MODIFIED:20260729T100935Z
+LOCATION;LANGUAGE=fr:Salle EM317 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM317 - EI
+ FFEL 1<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
+ /><span style="font-weight:bold\;">contenu</span><br /><div class="teams">
+ </div><div class="sws"><div style="font-family: arial\,helvetica\,sans-ser
+ if\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://a
+ pp.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec l
+ e code établissement 7705</div><hr></div><div class="hp"><div style="font
+ -family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez v
+ os documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20260914T141500Z
+DTEND:20260914T151500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011042-7-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nSalle : Salle EM317 - EIFFEL 1\nType :
+  CRS\n\nContenu pédagogique de cette séance : \n<span style="font-weight
+ :bold\;">contenu</span><br /><div class="teams"></div><div class="sws"><di
+ v style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a
+  title="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_
+ blank">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705
+ </div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
+ \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
+ </div>\n
+LAST-MODIFIED:20260729T100935Z
+LOCATION;LANGUAGE=fr:Salle EM317 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM317 - EI
+ FFEL 1<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
+ /><span style="font-weight:bold\;">contenu</span><br /><div class="teams">
+ </div><div class="sws"><div style="font-family: arial\,helvetica\,sans-ser
+ if\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://a
+ pp.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec l
+ e code établissement 7705</div><hr></div><div class="hp"><div style="font
+ -family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez v
+ os documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20260921T120000Z
+DTEND:20260921T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011394-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le G017- E4\nType : CRS-TP\n\nContenu pédagogique de cette séance : \n<s
+ pan style="font-weight:bold\;">contenu</span><br /><div class="teams"></di
+ v><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\;
+  font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https://app.s
+ owesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le co
+ de établissement 7705</div><hr></div><div class="hp"><div style="font-fam
+ ily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos d
+ ocuments ici...</div></div>\n
+LAST-MODIFIED:20260731T071051Z
+LOCATION;LANGUAGE=fr:Salle G017- E4
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle G017- E4<br/>Type : CRS-TP<br/><br/>Contenu pédagogique 
+ de cette séance : <br/><span style="font-weight:bold\;">contenu</span><br
+  /><div class="teams"></div><div class="sws"><div style="font-family: aria
+ l\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="noo
+ pener" href="https://app.sowesign.com" target="_blank">Appel en ligne</a><
+ br><br>SoWeSign avec le code établissement 7705</div><hr></div><div class
+ ="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 1
+ 3pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20260930T141500Z
+DTEND:20260930T151500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011442-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le SC004 - EIFFEL 1\nType : CRS-TP\n\nContenu pédagogique de cette séanc
+ e : \n<span style="font-weight:bold\;">contenu</span><br /><div class="tea
+ ms"></div><div class="sws"><div style="font-family: arial\,helvetica\,sans
+ -serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https
+ ://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign av
+ ec le code établissement 7705</div><hr></div><div class="hp"><div style="
+ font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
+ ez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260914T103914Z
+LOCATION;LANGUAGE=fr:Salle SC004 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle SC004 - EIFFEL 1<br/>Type : CRS-TP<br/><br/>Contenu péda
+ gogique de cette séance : <br/><span style="font-weight:bold\;">contenu</
+ span><br /><div class="teams"></div><div class="sws"><div style="font-fami
+ ly: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" 
+ rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en li
+ gne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><d
+ iv class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font
+ -size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20260930T153000Z
+DTEND:20260930T163000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011443-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le SC004 - EIFFEL 1\nType : CRS-TP\n\nContenu pédagogique de cette séanc
+ e : \n<span style="font-weight:bold\;">contenu</span><br /><div class="tea
+ ms"></div><div class="sws"><div style="font-family: arial\,helvetica\,sans
+ -serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https
+ ://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign av
+ ec le code établissement 7705</div><hr></div><div class="hp"><div style="
+ font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
+ ez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260914T103920Z
+LOCATION;LANGUAGE=fr:Salle SC004 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle SC004 - EIFFEL 1<br/>Type : CRS-TP<br/><br/>Contenu péda
+ gogique de cette séance : <br/><span style="font-weight:bold\;">contenu</
+ span><br /><div class="teams"></div><div class="sws"><div style="font-fami
+ ly: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" 
+ rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en li
+ gne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><d
+ iv class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font
+ -size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20260918T084500Z
+DTEND:20260918T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011861-7-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le G017- E4\nType : CRS-TP\n\nContenu pédagogique de cette séance : \n<s
+ pan style="font-weight:bold\;">contenu</span><br /><div class="teams"></di
+ v><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\;
+  font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https://app.s
+ owesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le co
+ de établissement 7705</div><hr></div><div class="hp"><div style="font-fam
+ ily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos d
+ ocuments ici...</div></div>\n
+LAST-MODIFIED:20260731T125432Z
+LOCATION;LANGUAGE=fr:Salle G017- E4
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle G017- E4<br/>Type : CRS-TP<br/><br/>Contenu pédagogique 
+ de cette séance : <br/><span style="font-weight:bold\;">contenu</span><br
+  /><div class="teams"></div><div class="sws"><div style="font-family: aria
+ l\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="noo
+ pener" href="https://app.sowesign.com" target="_blank">Appel en ligne</a><
+ br><br>SoWeSign avec le code établissement 7705</div><hr></div><div class
+ ="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 1
+ 3pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20260925T084500Z
+DTEND:20260925T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011861-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le EM314 (Laboratoire Electronique / Informatique) - EIFFEL 1 (Meet-up)\nT
+ ype : CRS-TP\n\nContenu pédagogique de cette séance : \n<span style="fon
+ t-weight:bold\;">contenu</span><br /><div class="teams"></div><div class="
+ sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13
+ px\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com" t
+ arget="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établissem
+ ent 7705</div><hr></div><div class="hp"><div style="font-family: arial\,he
+ lvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici..
+ .</div></div>\n
+LAST-MODIFIED:20260731T125432Z
+LOCATION;LANGUAGE=fr:Salle EM314 (Laboratoire Electronique / Informatique)
+  - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM314 (Laboratoire Electronique / Informatique) - EIFFEL 
+ 1 (Meet-up)<br/>Type : CRS-TP<br/><br/>Contenu pédagogique de cette séan
+ ce : <br/><span style="font-weight:bold\;">contenu</span><br /><div class=
+ "teams"></div><div class="sws"><div style="font-family: arial\,helvetica\,
+ sans-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="h
+ ttps://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSig
+ n avec le code établissement 7705</div><hr></div><div class="hp"><div sty
+ le="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, a
+ joutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261002T084500Z
+DTEND:20261002T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011861-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le G015 - EIFFEL 4\nType : CRS-TP\n\nContenu pédagogique de cette séance
+  : \n<span style="font-weight:bold\;">contenu</span><br /><div class="team
+ s"></div><div class="sws"><div style="font-family: arial\,helvetica\,sans-
+ serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https:
+ //app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign ave
+ c le code établissement 7705</div><hr></div><div class="hp"><div style="f
+ ont-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoute
+ z vos documents ici...</div></div>\n
+LAST-MODIFIED:20260731T125432Z
+LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle G015 - EIFFEL 4<br/>Type : CRS-TP<br/><br/>Contenu pédag
+ ogique de cette séance : <br/><span style="font-weight:bold\;">contenu</s
+ pan><br /><div class="teams"></div><div class="sws"><div style="font-famil
+ y: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" r
+ el="noopener" href="https://app.sowesign.com" target="_blank">Appel en lig
+ ne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><di
+ v class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-
+ size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261002T131500Z
+DTEND:20261002T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011870-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le EM323 - EIFFEL 1\nType : CRS-TP\n\nContenu pédagogique de cette séanc
+ e : \n<span style="font-weight:bold\;">contenu</span><br /><div class="tea
+ ms"></div><div class="sws"><div style="font-family: arial\,helvetica\,sans
+ -serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https
+ ://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign av
+ ec le code établissement 7705</div><hr></div><div class="hp"><div style="
+ font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
+ ez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260731T125450Z
+LOCATION;LANGUAGE=fr:Salle EM323 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM323 - EIFFEL 1<br/>Type : CRS-TP<br/><br/>Contenu péda
+ gogique de cette séance : <br/><span style="font-weight:bold\;">contenu</
+ span><br /><div class="teams"></div><div class="sws"><div style="font-fami
+ ly: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" 
+ rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en li
+ gne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><d
+ iv class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font
+ -size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261030T141500Z
+DTEND:20261030T151500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011870-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nType : CRS-
+ TP\n\nContenu pédagogique de cette séance : \n<span  style="color: Silve
+ r\;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</sp
+ an></span>\n
+LAST-MODIFIED:20260731T125450Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an  style="color: Silver\;"><span style="font-weight:normal\; font-style:i
+ talic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20260914T120000Z
+DTEND:20260914T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011898-7-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Algorithmique et Progra
+ mmation Orienté Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr D
+ U01\nSalle : Salle EM226 - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu p
+ édagogique de cette séance : \n<span style="font-weight:bold\;">contenu<
+ /span><br /><div class="teams"></div><div class="sws"><div style="font-fam
+ ily: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign"
+  rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en l
+ igne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><
+ div class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; fon
+ t-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260903T141700Z
+LOCATION;LANGUAGE=fr:Salle EM226 - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Mémo : fermé<br/>Matière : Algorithmique e
+ t Programmation Orienté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>
+ TD : Ing3 Gr DU01<br/>Salle : Salle EM226 - EIFFEL 1 (Meet-up)<br/>Type : 
+ CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><span style="
+ font-weight:bold\;">contenu</span><br /><div class="teams"></div><div clas
+ s="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-size:
+  13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com
+ " target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établis
+ sement 7705</div><hr></div><div class="hp"><div style="font-family: arial
+ \,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents i
+ ci...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20260914T131500Z
+DTEND:20260914T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2011900-7-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Algorithmique et Progra
+ mmation Orienté Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr D
+ U01\nSalle : Salle EM226 - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu p
+ édagogique de cette séance : \n<span style="font-weight:bold\;">contenu<
+ /span><br /><div class="teams"></div><div class="sws"><div style="font-fam
+ ily: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign"
+  rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en l
+ igne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><
+ div class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; fon
+ t-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260903T141700Z
+LOCATION;LANGUAGE=fr:Salle EM226 - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Mémo : fermé<br/>Matière : Algorithmique e
+ t Programmation Orienté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>
+ TD : Ing3 Gr DU01<br/>Salle : Salle EM226 - EIFFEL 1 (Meet-up)<br/>Type : 
+ CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><span style="
+ font-weight:bold\;">contenu</span><br /><div class="teams"></div><div clas
+ s="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-size:
+  13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com
+ " target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établis
+ sement 7705</div><hr></div><div class="hp"><div style="font-family: arial
+ \,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents i
+ ci...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Versioning ING3
+DTSTART:20261016T141500Z
+DTEND:20261016T151500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2012522-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
+ XIS\nTD : Ing3 Gr DU01\nSalle : Salle SC004 - EIFFEL 1\nType : CRS-TP\n
+LAST-MODIFIED:20260903T092300Z
+LOCATION;LANGUAGE=fr:Salle SC004 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Versioning ING3<br/>Enseignant : M
+ ARIE ALEXIS<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC004 - EIFFEL 1<br/>T
+ ype : CRS-TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Versioning ING3
+DTSTART:20261012T141500Z
+DTEND:20261012T151500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2012523-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
+ XIS\nTD : Ing3 Gr DU01\nSalle : Salle EM213 - EIFFEL 1 (Meet-up)\nType : C
+ RS-TP\n
+LAST-MODIFIED:20260902T102127Z
+LOCATION;LANGUAGE=fr:Salle EM213 - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Versioning ING3<br/>Enseignant : M
+ ARIE ALEXIS<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM213 - EIFFEL 1 (Meet
+ -up)<br/>Type : CRS-TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Versioning ING3
+DTSTART:20261012T153000Z
+DTEND:20261012T163000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2012524-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
+ XIS\nTD : Ing3 Gr DU01\nSalle : Salle EM213 - EIFFEL 1 (Meet-up)\nType : C
+ RS-TP\n
+LAST-MODIFIED:20260902T102127Z
+LOCATION;LANGUAGE=fr:Salle EM213 - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Versioning ING3<br/>Enseignant : M
+ ARIE ALEXIS<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM213 - EIFFEL 1 (Meet
+ -up)<br/>Type : CRS-TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Versioning ING3
+DTSTART:20261016T153000Z
+DTEND:20261016T163000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2012525-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
+ XIS\nTD : Ing3 Gr DU01\nSalle : Salle SC004 - EIFFEL 1\nType : CRS-TP\n
+LAST-MODIFIED:20260903T092300Z
+LOCATION;LANGUAGE=fr:Salle SC004 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Versioning ING3<br/>Enseignant : M
+ ARIE ALEXIS<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC004 - EIFFEL 1<br/>T
+ ype : CRS-TP<br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Méthodologie de projet
+DTSTART:20261014T153000Z
+DTEND:20261014T173000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2012559-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Méthodologie de projet\nEnseignant : M
+ me SUEUR LIO\nTD : Ing3 Gr DU01\nType : CRS-TD-CV\n\nContenu pédagogique 
+ de cette séance : \n<span  style="color: Silver\;"><span style="font-weig
+ ht:normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260729T140620Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Méthodologie de projet<br/>Enseig
+ nant : Mme SUEUR LIO<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD-CV<br/><br/>C
+ ontenu pédagogique de cette séance : <br/><span  style="color: Silver\;"
+ ><span style="font-weight:normal\; font-style:italic\;">Sans titre</span><
+ /span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Méthodologie de projet
+DTSTART:20260928T141500Z
+DTEND:20260928T161500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2012561-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Mémo : salle pour étudiants - intervenant à dis
+ tance\nMatière : Méthodologie de projet\nEnseignant : Mme SUEUR LIO\nTD 
+ : Ing3 Gr DU01\nSalle : Salle SC209 - EIFFEL 1\nType : CRS-TD-CV\n\nConten
+ u pédagogique de cette séance : \n<span style="font-weight:bold\;">conte
+ nu</span><br /><div class="teams"><div style="font-family: arial\,helvetic
+ a\,sans-serif\; font-size: 13px\;"><a title="Cliquez-la" rel="noopener" hr
+ ef="https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdhMjdiOGItOWM
+ yMC00NGYwLWI0YzQtYWY5MmQ5MDg5ODZm%40thread.v2/0?context=%7b%22Tid%22%3a%22
+ a2697119-66c5-4126-9991-b0a8d15d367f%22%2c%22Oid%22%3a%22ef92657c-47bd-4ba
+ 8-ab70-1481b6bff493%22%7d" target="_blank">Rejoindre le cours en ligne</a>
+ </div><hr></div><div class="sws"><div style="font-family: arial\,helvetica
+ \,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href=
+ "https://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeS
+ ign avec le code établissement 7705</div><hr></div><div class="hp"><div s
+ tyle="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\,
+  ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260914T094854Z
+LOCATION;LANGUAGE=fr:Salle SC209 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Mémo : salle pour étudiants - intervenant 
+ à distance<br/>Matière : Méthodologie de projet<br/>Enseignant : Mme SU
+ EUR LIO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC209 - EIFFEL 1<br/>Type 
+ : CRS-TD-CV<br/><br/>Contenu pédagogique de cette séance : <br/><span st
+ yle="font-weight:bold\;">contenu</span><br /><div class="teams"><div style
+ ="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title=
+ "Cliquez-la" rel="noopener" href="https://teams.microsoft.com/l/meetup-joi
+ n/19%3ameeting_ZTdhMjdiOGItOWMyMC00NGYwLWI0YzQtYWY5MmQ5MDg5ODZm%40thread.v
+ 2/0?context=%7b%22Tid%22%3a%22a2697119-66c5-4126-9991-b0a8d15d367f%22%2c%2
+ 2Oid%22%3a%22ef92657c-47bd-4ba8-ab70-1481b6bff493%22%7d" target="_blank">R
+ ejoindre le cours en ligne</a></div><hr></div><div class="sws"><div style=
+ "font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="
+ SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blank">A
+ ppel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><h
+ r></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-se
+ rif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br
+ />
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bases de gestion
+DTSTART:20260925T131500Z
+DTEND:20260925T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2012654-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
+  FRANCESCO\nTD : Ing3 Gr DU01\nSalle : Salle EM224 (Laboratoire Electroniq
+ ue) - EIFFEL 1 (Meet-up)\nType : CRS\n\nContenu pédagogique de cette séa
+ nce : \n<span style="font-weight:bold\;">contenu</span><br /><div class="t
+ eams"></div><div class="sws"><div style="font-family: arial\,helvetica\,sa
+ ns-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="htt
+ ps://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign 
+ avec le code établissement 7705</div><hr></div><div class="hp"><div style
+ ="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajo
+ utez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260731T072626Z
+LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
+ M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM224 (Laborato
+ ire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS<br/><br/>Contenu pé
+ dagogique de cette séance : <br/><span style="font-weight:bold\;">contenu
+ </span><br /><div class="teams"></div><div class="sws"><div style="font-fa
+ mily: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign
+ " rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en 
+ ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div>
+ <div class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; fo
+ nt-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prise de Parole
+DTSTART:20260925T153000Z
+DTEND:20260925T163000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2012656-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
+ CHRISTOPHE\nTD : Ing3 Gr DU01\nSalle : Salle SC004 - EIFFEL 1\nType : CRS-
+ TD\n\nContenu pédagogique de cette séance : \n<span style="font-weight:b
+ old\;">contenu</span><br /><div class="teams"></div><div class="sws"><div 
+ style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a t
+ itle="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_bl
+ ank">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</
+ div><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,s
+ ans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></d
+ iv>\n
+LAST-MODIFIED:20260731T085754Z
+LOCATION;LANGUAGE=fr:Salle SC004 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prise de Parole<br/>Enseignant : M
+ . BEDIN CHRISTOPHE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC004 - EIFFEL 
+ 1<br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cette séance : <br/>
+ <span style="font-weight:bold\;">contenu</span><br /><div class="teams"></
+ div><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif
+ \; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app
+ .sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le 
+ code établissement 7705</div><hr></div><div class="hp"><div style="font-f
+ amily: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos
+  documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20261014T063000Z
+DTEND:20261014T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2012678-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
+  Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle EM216 (Laboratoire E
+ lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
+ e cette séance : \n<span  style="color: Silver\;"><span style="font-weigh
+ t:normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260729T140254Z
+LOCATION;LANGUAGE=fr:Salle EM216 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
+ ignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM216 
+ (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS-TP<br/><br/
+ >Contenu pédagogique de cette séance : <br/><span  style="color: Silver
+ \;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</spa
+ n></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20261013T063000Z
+DTEND:20261013T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2013267-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
+  Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle EM326 (Laboratoire E
+ lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
+ e cette séance : \n<span  style="color: Silver\;"><span style="font-weigh
+ t:normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260729T140159Z
+LOCATION;LANGUAGE=fr:Salle EM326 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
+ ignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM326 
+ (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS-TP<br/><br/
+ >Contenu pédagogique de cette séance : <br/><span  style="color: Silver
+ \;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</spa
+ n></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20260928T131500Z
+DTEND:20260928T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2013280-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
+  Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle EM222 (Laboratoire E
+ lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
+ e cette séance : \n<span style="font-weight:bold\;">contenu</span><br /><
+ div class="teams"></div><div class="sws"><div style="font-family: arial\,h
+ elvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopene
+ r" href="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><
+ br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
+ "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
+ \;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260915T115606Z
+LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
+ ignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM222 
+ (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS-TP<br/><br/
+ >Contenu pédagogique de cette séance : <br/><span style="font-weight:bol
+ d\;">contenu</span><br /><div class="teams"></div><div class="sws"><div st
+ yle="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a tit
+ le="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blan
+ k">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</di
+ v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div
+ ><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20261005T131500Z
+DTEND:20261005T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2013280-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
+  Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle EM312 (Laboratoire E
+ lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
+ e cette séance : \n<span  style="color: Silver\;"><span style="font-weigh
+ t:normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260915T115606Z
+LOCATION;LANGUAGE=fr:Salle EM312 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
+ ignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM312 
+ (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS-TP<br/><br/
+ >Contenu pédagogique de cette séance : <br/><span  style="color: Silver
+ \;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</spa
+ n></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20260923T084500Z
+DTEND:20260923T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2023423-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
+  Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle EM218 (Laboratoire E
+ lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
+ e cette séance : \n<span style="font-weight:bold\;">contenu</span><br /><
+ div class="teams"></div><div class="sws"><div style="font-family: arial\,h
+ elvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopene
+ r" href="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><
+ br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
+ "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
+ \;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260729T140614Z
+LOCATION;LANGUAGE=fr:Salle EM218 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
+ ignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM218 
+ (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS-TP<br/><br/
+ >Contenu pédagogique de cette séance : <br/><span style="font-weight:bol
+ d\;">contenu</span><br /><div class="teams"></div><div class="sws"><div st
+ yle="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a tit
+ le="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blan
+ k">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</di
+ v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div
+ ><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prototypage électronique
+DTSTART:20260930T084500Z
+DTEND:20260930T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2023423-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
+  Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle EM222 (Laboratoire E
+ lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
+ e cette séance : \n<span style="font-weight:bold\;">contenu</span><br /><
+ div class="teams"></div><div class="sws"><div style="font-family: arial\,h
+ elvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopene
+ r" href="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><
+ br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
+ "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
+ \;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260729T140614Z
+LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
+ ignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM222 
+ (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS-TP<br/><br/
+ >Contenu pédagogique de cette séance : <br/><span style="font-weight:bol
+ d\;">contenu</span><br /><div class="teams"></div><div class="sws"><div st
+ yle="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a tit
+ le="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blan
+ k">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</di
+ v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div
+ ><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20260925T063000Z
+DTEND:20260925T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2023424-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nSalle : Salle EM126 - E1\nType : CRS-T
+ D\n\nContenu pédagogique de cette séance : \n<span style="font-weight:bo
+ ld\;">contenu</span><br /><div class="teams"></div><div class="sws"><div s
+ tyle="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a ti
+ tle="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_bla
+ nk">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</d
+ iv><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,sa
+ ns-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></di
+ v>\n
+LAST-MODIFIED:20260907T134218Z
+LOCATION;LANGUAGE=fr:Salle EM126 - E1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM126 - E1
+ <br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cette séance : <br/><
+ span style="font-weight:bold\;">contenu</span><br /><div class="teams"></d
+ iv><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif
+ \; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app
+ .sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le 
+ code établissement 7705</div><hr></div><div class="hp"><div style="font-f
+ amily: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos
+  documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20260923T063000Z
+DTEND:20260923T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2023434-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
+ S RAFIC\nTD : Ing3 Gr DU01\nSalle : Salle EM319 - EIFFEL 1\nType : CRS\n\n
+ Contenu pédagogique de cette séance : \n<span style="font-weight:bold\;"
+ >contenu</span><br /><div class="teams"></div><div class="sws"><div style=
+ "font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="
+ SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blank">A
+ ppel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><h
+ r></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-se
+ rif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260914T094928Z
+LOCATION;LANGUAGE=fr:Salle EM319 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM319 - EIFFEL 1<b
+ r/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br/><span 
+ style="font-weight:bold\;">contenu</span><br /><div class="teams"></div><d
+ iv class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; fon
+ t-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sowes
+ ign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code 
+ établissement 7705</div><hr></div><div class="hp"><div style="font-family
+ : arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos docu
+ ments ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20260930T063000Z
+DTEND:20260930T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2023434-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
+ S RAFIC\nTD : Ing3 Gr DU01\nSalle : Salle EM220 - EIFFEL 1\nType : CRS\n\n
+ Contenu pédagogique de cette séance : \n<span style="font-weight:bold\;"
+ >contenu</span><br /><div class="teams"></div><div class="sws"><div style=
+ "font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="
+ SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blank">A
+ ppel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><h
+ r></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-se
+ rif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260914T094928Z
+LOCATION;LANGUAGE=fr:Salle EM220 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM220 - EIFFEL 1<b
+ r/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br/><span 
+ style="font-weight:bold\;">contenu</span><br /><div class="teams"></div><d
+ iv class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; fon
+ t-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sowes
+ ign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code 
+ établissement 7705</div><hr></div><div class="hp"><div style="font-family
+ : arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos docu
+ ments ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Développement Durable
+DTSTART:20260926T084500Z
+DTEND:20260926T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2031664-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
+ 01\nType : ELEARNING\n\nContenu pédagogique de cette séance : \n<span st
+ yle="font-weight:bold\;">contenu</span><br /><div class="teams"></div><div
+  class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-
+ size: 13px\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesig
+ n.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code ét
+ ablissement 7705</div><hr></div><div class="hp"><div style="font-family: a
+ rial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documen
+ ts ici...</div></div>\n
+LAST-MODIFIED:20260723T132525Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Développement Durable<br/>TD : In
+ g3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette sé
+ ance : <br/><span style="font-weight:bold\;">contenu</span><br /><div clas
+ s="teams"></div><div class="sws"><div style="font-family: arial\,helvetica
+ \,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href=
+ "https://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeS
+ ign avec le code établissement 7705</div><hr></div><div class="hp"><div s
+ tyle="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\,
+  ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261012T084500Z
+DTEND:20261012T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2039504-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nType : CRS-
+ TP\n\nContenu pédagogique de cette séance : \n<span  style="color: Silve
+ r\;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</sp
+ an></span>\n
+LAST-MODIFIED:20260729T104403Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an  style="color: Silver\;"><span style="font-weight:normal\; font-style:i
+ talic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261026T073000Z
+DTEND:20261026T093000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2039511-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nType : CRS-
+ TP\n\nContenu pédagogique de cette séance : \n<span  style="color: Silve
+ r\;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</sp
+ an></span>\n
+LAST-MODIFIED:20260806T120822Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an  style="color: Silver\;"><span style="font-weight:normal\; font-style:i
+ talic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261009T131500Z
+DTEND:20261009T151500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2039515-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le EM225 - EIFFEL 1\nType : CRS-TP\n\nContenu pédagogique de cette séanc
+ e : \n<span  style="color: Silver\;"><span style="font-weight:normal\; fon
+ t-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260915T095204Z
+LOCATION;LANGUAGE=fr:Salle EM225 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM225 - EIFFEL 1<br/>Type : CRS-TP<br/><br/>Contenu péda
+ gogique de cette séance : <br/><span  style="color: Silver\;"><span style
+ ="font-weight:normal\; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20260921T131500Z
+DTEND:20260921T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2040033-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le G017- E4\nType : CRS-TP\n\nContenu pédagogique de cette séance : \n<s
+ pan style="font-weight:bold\;">contenu</span><br /><div class="teams"></di
+ v><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\;
+  font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https://app.s
+ owesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le co
+ de établissement 7705</div><hr></div><div class="hp"><div style="font-fam
+ ily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos d
+ ocuments ici...</div></div>\n
+LAST-MODIFIED:20260731T071051Z
+LOCATION;LANGUAGE=fr:Salle G017- E4
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle G017- E4<br/>Type : CRS-TP<br/><br/>Contenu pédagogique 
+ de cette séance : <br/><span style="font-weight:bold\;">contenu</span><br
+  /><div class="teams"></div><div class="sws"><div style="font-family: aria
+ l\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="noo
+ pener" href="https://app.sowesign.com" target="_blank">Appel en ligne</a><
+ br><br>SoWeSign avec le code établissement 7705</div><hr></div><div class
+ ="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 1
+ 3pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20260923T131500Z
+DTEND:20260923T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060451-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le EM224 (Laboratoire Electronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n
+ \nContenu pédagogique de cette séance : \n<span style="font-weight:bold
+ \;">contenu</span><br /><div class="teams"></div><div class="sws"><div sty
+ le="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a titl
+ e="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blank
+ ">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div
+ ><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,sans
+ -serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>
+ \n
+LAST-MODIFIED:20260915T083125Z
+LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/
+ >Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><span
+  style="font-weight:bold\;">contenu</span><br /><div class="teams"></div><
+ div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; fo
+ nt-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sowe
+ sign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code 
+ établissement 7705</div><hr></div><div class="hp"><div style="font-family
+ : arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos docu
+ ments ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261007T131500Z
+DTEND:20261007T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060451-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le EM319 - EIFFEL 1\nType : CRS-TP\n\nContenu pédagogique de cette séanc
+ e : \n<span  style="color: Silver\;"><span style="font-weight:normal\; fon
+ t-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260915T083125Z
+LOCATION;LANGUAGE=fr:Salle EM319 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM319 - EIFFEL 1<br/>Type : CRS-TP<br/><br/>Contenu péda
+ gogique de cette séance : <br/><span  style="color: Silver\;"><span style
+ ="font-weight:normal\; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261014T131500Z
+DTEND:20261014T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060451-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le EM226 - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique de ce
+ tte séance : \n<span  style="color: Silver\;"><span style="font-weight:no
+ rmal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260915T083125Z
+LOCATION;LANGUAGE=fr:Salle EM226 - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM226 - EIFFEL 1 (Meet-up)<br/>Type : CRS-TP<br/><br/>Con
+ tenu pédagogique de cette séance : <br/><span  style="color: Silver\;"><
+ span style="font-weight:normal\; font-style:italic\;">Sans titre</span></s
+ pan><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261030T094500Z
+DTEND:20261030T114500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060452-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nType : CRS-
+ TP\n\nContenu pédagogique de cette séance : \n<span  style="color: Silve
+ r\;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</sp
+ an></span>\n
+LAST-MODIFIED:20260911T095924Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an  style="color: Silver\;"><span style="font-weight:normal\; font-style:i
+ talic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20260930T131500Z
+DTEND:20260930T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060454-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
+ JAL SANA\nTD : Ing3 Gr DU01\nSalle : Salle EM316 - EIFFEL 1\nType : CRS-TD
+ \n\nContenu pédagogique de cette séance : \n<span style="font-weight:bol
+ d\;">contenu</span><br /><div class="teams"></div><div class="sws"><div st
+ yle="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a tit
+ le="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blan
+ k">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</di
+ v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div
+ >\n
+LAST-MODIFIED:20260914T141809Z
+LOCATION;LANGUAGE=fr:Salle EM316 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM316 - EIFFEL 1<
+ br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cette séance : <br/><s
+ pan style="font-weight:bold\;">contenu</span><br /><div class="teams"></di
+ v><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\;
+  font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.s
+ owesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le co
+ de établissement 7705</div><hr></div><div class="hp"><div style="font-fam
+ ily: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos d
+ ocuments ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20260930T120000Z
+DTEND:20260930T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060455-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
+ JAL SANA\nTD : Ing3 Gr DU01\nSalle : Salle EM316 - EIFFEL 1\nType : CRS-TD
+ \n\nContenu pédagogique de cette séance : \n<span style="font-weight:bol
+ d\;">contenu</span><br /><div class="teams"></div><div class="sws"><div st
+ yle="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a tit
+ le="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blan
+ k">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</di
+ v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div
+ >\n
+LAST-MODIFIED:20260914T141809Z
+LOCATION;LANGUAGE=fr:Salle EM316 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM316 - EIFFEL 1<
+ br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cette séance : <br/><s
+ pan style="font-weight:bold\;">contenu</span><br /><div class="teams"></di
+ v><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\;
+  font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.s
+ owesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le co
+ de établissement 7705</div><hr></div><div class="hp"><div style="font-fam
+ ily: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos d
+ ocuments ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20261014T084500Z
+DTEND:20261014T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060456-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
+ JAL SANA\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique de cett
+ e séance : \n<span  style="color: Silver\;"><span style="font-weight:norm
+ al\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260831T130214Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>Contenu 
+ pédagogique de cette séance : <br/><span  style="color: Silver\;"><span 
+ style="font-weight:normal\; font-style:italic\;">Sans titre</span></span><
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20261028T163000Z
+DTEND:20261028T173000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060472-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
+ JAL SANA\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique de cett
+ e séance : \n<span  style="color: Silver\;"><span style="font-weight:norm
+ al\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260831T130336Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>Contenu 
+ pédagogique de cette séance : <br/><span  style="color: Silver\;"><span 
+ style="font-weight:normal\; font-style:italic\;">Sans titre</span></span><
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20261028T151500Z
+DTEND:20261028T161500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060473-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
+ JAL SANA\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique de cett
+ e séance : \n<span  style="color: Silver\;"><span style="font-weight:norm
+ al\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260831T130330Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>Contenu 
+ pédagogique de cette séance : <br/><span  style="color: Silver\;"><span 
+ style="font-weight:normal\; font-style:italic\;">Sans titre</span></span><
+ br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20260929T084500Z
+DTEND:20260929T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060483-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nSalle : Salle EM324 (Laboratoire Elect
+ ronique) - EIFFEL 1 (Meet-up)\nType : CRS-TD\n\nContenu pédagogique de ce
+ tte séance : \n<span style="font-weight:bold\;">contenu</span><br /><div 
+ class="teams"></div><div class="sws"><div style="font-family: arial\,helve
+ tica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" h
+ ref="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>S
+ oWeSign avec le code établissement 7705</div><hr></div><div class="hp"><d
+ iv style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">S
+ vp\, ajoutez vos documents ici...</div></div>\n
+LAST-MODIFIED:20260918T093558Z
+LOCATION;LANGUAGE=fr:Salle EM324 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM324 (Lab
+ oratoire Electronique) - EIFFEL 1 (Meet-up)<br/>Type : CRS-TD<br/><br/>Con
+ tenu pédagogique de cette séance : <br/><span style="font-weight:bold\;"
+ >contenu</span><br /><div class="teams"></div><div class="sws"><div style=
+ "font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="
+ SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blank">A
+ ppel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><h
+ r></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-se
+ rif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br
+ />
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20261006T084500Z
+DTEND:20261006T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060483-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nSalle : Salle SC212 - EIFFEL 1\nType :
+  CRS-TD\n\nContenu pédagogique de cette séance : \n<span  style="color: 
+ Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans titr
+ e</span></span>\n
+LAST-MODIFIED:20260918T093558Z
+LOCATION;LANGUAGE=fr:Salle SC212 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC212 - EI
+ FFEL 1<br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cette séance : 
+ <br/><span  style="color: Silver\;"><span style="font-weight:normal\; font
+ -style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bases de gestion
+DTSTART:20261007T063000Z
+DTEND:20261007T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060513-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
+  FRANCESCO\nTD : Ing3 Gr DU01\nSalle : Salle SC210 - EIFFEL 1\nType : CRS
+ \n\nContenu pédagogique de cette séance : \n<span  style="color: Silver
+ \;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</spa
+ n></span>\n
+LAST-MODIFIED:20260831T130927Z
+LOCATION;LANGUAGE=fr:Salle SC210 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
+ M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC210 - EIFFEL 
+ 1<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an  style="color: Silver\;"><span style="font-weight:normal\; font-style:i
+ talic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20261006T063000Z
+DTEND:20261006T083000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2060516-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nSalle : Salle SC212 - EIFFEL 1\nType :
+  CRS\n\nContenu pédagogique de cette séance : \n<span  style="color: Sil
+ ver\;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</
+ span></span>\n
+LAST-MODIFIED:20260916T092129Z
+LOCATION;LANGUAGE=fr:Salle SC212 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC212 - EI
+ FFEL 1<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
+ /><span  style="color: Silver\;"><span style="font-weight:normal\; font-st
+ yle:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261012T120000Z
+DTEND:20261012T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2063743-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nType : CRS-
+ TP\n\nContenu pédagogique de cette séance : \n<span  style="color: Silve
+ r\;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</sp
+ an></span>\n
+LAST-MODIFIED:20260903T141700Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an  style="color: Silver\;"><span style="font-weight:normal\; font-style:i
+ talic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261012T131500Z
+DTEND:20261012T141500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2063744-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nType : CRS-
+ TP\n\nContenu pédagogique de cette séance : \n<span  style="color: Silve
+ r\;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</sp
+ an></span>\n
+LAST-MODIFIED:20260903T141700Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an  style="color: Silver\;"><span style="font-weight:normal\; font-style:i
+ talic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20260923T120000Z
+DTEND:20260923T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2068566-8-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le EM224 (Laboratoire Electronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n
+ \nContenu pédagogique de cette séance : \n<span style="font-weight:bold
+ \;">contenu</span><br /><div class="teams"></div><div class="sws"><div sty
+ le="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a titl
+ e="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blank
+ ">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div
+ ><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,sans
+ -serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>
+ \n
+LAST-MODIFIED:20260915T083118Z
+LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
+ et-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Meet-up)<br/
+ >Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><span
+  style="font-weight:bold\;">contenu</span><br /><div class="teams"></div><
+ div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; fo
+ nt-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sowe
+ sign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code 
+ établissement 7705</div><hr></div><div class="hp"><div style="font-family
+ : arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos docu
+ ments ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261007T120000Z
+DTEND:20261007T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2068566-10-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le EM319 - EIFFEL 1\nType : CRS-TP\n\nContenu pédagogique de cette séanc
+ e : \n<span  style="color: Silver\;"><span style="font-weight:normal\; fon
+ t-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260915T083118Z
+LOCATION;LANGUAGE=fr:Salle EM319 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM319 - EIFFEL 1<br/>Type : CRS-TP<br/><br/>Contenu péda
+ gogique de cette séance : <br/><span  style="color: Silver\;"><span style
+ ="font-weight:normal\; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmique et Programmation Orienté Objet
+DTSTART:20261014T120000Z
+DTEND:20261014T130000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2068566-11-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
+  Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
+ le EM226 - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique de ce
+ tte séance : \n<span  style="color: Silver\;"><span style="font-weight:no
+ rmal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260915T083118Z
+LOCATION;LANGUAGE=fr:Salle EM226 - EIFFEL 1 (Meet-up)
+X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
+ enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
+ r/>Salle : Salle EM226 - EIFFEL 1 (Meet-up)<br/>Type : CRS-TP<br/><br/>Con
+ tenu pédagogique de cette séance : <br/><span  style="color: Silver\;"><
+ span style="font-weight:normal\; font-style:italic\;">Sans titre</span></s
+ pan><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20261028T141500Z
+DTEND:20261028T151500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2068570-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique 
+ de cette séance : \n<span  style="color: Silver\;"><span style="font-weig
+ ht:normal\; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260911T100002Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>C
+ ontenu pédagogique de cette séance : <br/><span  style="color: Silver\;"
+ ><span style="font-weight:normal\; font-style:italic\;">Sans titre</span><
+ /span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathématiques 5
+DTSTART:20261027T073000Z
+DTEND:20261027T093000Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2070732-13-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
+ S RAFIC\nTD : Ing3 Gr DU01\nType : CRS\n\nContenu pédagogique de cette s
+ éance : \n<span  style="color: Silver\;"><span style="font-weight:normal
+ \; font-style:italic\;">Sans titre</span></span>\n
+LAST-MODIFIED:20260916T091959Z
+X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
+ M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Type : CRS<br/><br/>Contenu péd
+ agogique de cette séance : <br/><span  style="color: Silver\;"><span styl
+ e="font-weight:normal\; font-style:italic\;">Sans titre</span></span><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electromagnétisme
+DTSTART:20260928T084500Z
+DTEND:20260928T104500Z
+DTSTAMP:20260918T095916Z
+UID:Cours-2070733-9-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nSalle : Salle EM219 - EIFFEL 1\nType :
+  CRS\n\nContenu pédagogique de cette séance : \n<span style="font-weight
+ :bold\;">contenu</span><br /><div class="teams"></div><div class="sws"><di
+ v style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a
+  title="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_
+ blank">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705
+ </div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
+ \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
+ </div>\n
+LAST-MODIFIED:20260916T092010Z
+LOCATION;LANGUAGE=fr:Salle EM219 - EIFFEL 1
+X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM219 - EI
+ FFEL 1<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
+ /><span style="font-weight:bold\;">contenu</span><br /><div class="teams">
+ </div><div class="sws"><div style="font-family: arial\,helvetica\,sans-ser
+ if\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://a
+ pp.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec l
+ e code établissement 7705</div><hr></div><div class="hp"><div style="font
+ -family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez v
+ os documents ici...</div></div><br/>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Férié
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DTSTAMP:20260918T095916Z
+UID:Ferie-693-GROSLIERE_Lucas-Index-Education
+CATEGORIES:HYPERPLANNING
+END:VEVENT
+END:VCALENDAR
