@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-ics
+  cancel-in-progress: false
 
 jobs:
   update-ics:
