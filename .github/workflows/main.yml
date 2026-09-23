@@ -3,7 +3,7 @@ name: Update ICS files
 on:
   schedule:
     - cron: '*/30 * * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -48,4 +48,5 @@ jobs:
         run: |
           git add *.ics
           git commit -m "Update ICS files" || echo "No changes to commit"
+          git pull --rebase origin main
           git push origin main
