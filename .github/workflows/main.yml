@@ -20,6 +20,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
           persist-credentials: false
 
       - name: Setup Python
@@ -40,13 +41,22 @@ jobs:
 
       - name: Configure git
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/lucasstagnette/gpu_edt_lr.git
 
       - name: Push ICS updates
         run: |
           git add *.ics
-          git commit -m "Update ICS files" || echo "No changes to commit"
-          git pull --rebase origin main
-          git push origin main
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update ICS files"
+
+          git fetch origin main
+          git rebase origin/main
+
+          git push origin HEAD:main
