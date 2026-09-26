@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID;LANGUAGE=fr:Copyright Index-Education - HYPERPLANNING 2026
 METHOD:PUBLISH
 X-WR-CALDESC;LANGUAGE=fr:Emploi du temps de GROSLIÈRE Lucas 02/10/2006 g
- énéré par le logiciel HP (©INDEX ÉDUCATION) le 25 sept. 2026 - OMNES 
+ énéré par le logiciel HP (©INDEX ÉDUCATION) le 26 sept. 2026 - OMNES 
  Education (Campus PARIS) - valable sur la période du 03 août au 07 novem
  bre 2026 - Semaines : semaine 32 - 45
 X-WR-CALNAME;LANGUAGE=fr:HYP - GROSLIÈRE Lucas 02/10/2006 (<ECE Ing3-Fall
@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20260924T084500Z
 DTEND:20260924T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1987725-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261001T084500Z
 DTEND:20261001T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1987725-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -78,27 +78,37 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261008T084500Z
 DTEND:20261008T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1987725-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
  Enseignant : M. RYAN GREGORY\nTD : Ing3 B2 (DU)\nSalle : Salle SC214 - EIF
- FEL 1\nType : CRS-TD\n\nContenu pédagogique de cette séance : \n<span  s
- tyle="color: Silver\;"><span style="font-weight:normal\; font-style:italic
- \;">Sans titre</span></span>\n
+ FEL 1\nType : CRS-TD\n\nContenu pédagogique de cette séance : \n<span st
+ yle="font-weight:bold\;">contenu</span><br /><div class="teams"></div><div
+  class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-
+ size: 13px\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesig
+ n.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code ét
+ ablissement 7705</div><hr></div><div class="hp"><div style="font-family: a
+ rial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documen
+ ts ici...</div></div>\n
 LAST-MODIFIED:20260916T123743Z
 LOCATION;LANGUAGE=fr:Salle SC214 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : Communication for engine
  ers<br/>Enseignant : M. RYAN GREGORY<br/>TD : Ing3 B2 (DU)<br/>Salle : Sal
  le SC214 - EIFFEL 1<br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cet
- te séance : <br/><span  style="color: Silver\;"><span style="font-weight:
- normal\; font-style:italic\;">Sans titre</span></span><br/>
+ te séance : <br/><span style="font-weight:bold\;">contenu</span><br /><di
+ v class="teams"></div><div class="sws"><div style="font-family: arial\,hel
+ vetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener"
+  href="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><br
+ >SoWeSign avec le code établissement 7705</div><hr></div><div class="hp">
+ <div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"
+ >Svp\, ajoutez vos documents ici...</div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261015T084500Z
 DTEND:20261015T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1987725-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -118,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261029T094500Z
 DTEND:20261029T114500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1987725-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -136,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261105T094500Z
 DTEND:20261105T114500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1987725-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -158,33 +168,51 @@ BEGIN:VEVENT
 SUMMARY:Anglais : MyCow
 DTSTART:20261010T063000Z
 DTEND:20261010T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2031672-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : MyCow\nTD : Ing3 B2 (DU)\nTyp
- e : ELEARNING\n
+ e : ELEARNING\n\nContenu pédagogique de cette séance : \n<span style="fo
+ nt-weight:bold\;">contenu</span><br /><div class="teams"></div><div class=
+ "sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 1
+ 3px\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com" 
+ target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établisse
+ ment 7705</div><hr></div><div class="hp"><div style="font-family: arial\,h
+ elvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici.
+ ..</div></div>\n
 LAST-MODIFIED:20260723T132735Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : MyCow<br/>TD : Ing3 B2 (
- DU)<br/>Type : ELEARNING<br/>
+ DU)<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance : 
+ <br/><span style="font-weight:bold\;">contenu</span><br /><div class="team
+ s"></div><div class="sws"><div style="font-family: arial\,helvetica\,sans-
+ serif\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https:
+ //app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign ave
+ c le code établissement 7705</div><hr></div><div class="hp"><div style="f
+ ont-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoute
+ z vos documents ici...</div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anglais : MyCow
 DTSTART:20261030T163000Z
 DTEND:20261030T183000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2031673-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : MyCow\nTD : Ing3 B2 (DU)\nTyp
- e : ELEARNING\n
+ e : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  style="c
+ olor: Silver\;"><span style="font-weight:normal\; font-style:italic\;">San
+ s titre</span></span>\n
 LAST-MODIFIED:20260924T063832Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : MyCow<br/>TD : Ing3 B2 (
- DU)<br/>Type : ELEARNING<br/>
+ DU)<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance : 
+ <br/><span  style="color: Silver\;"><span style="font-weight:normal\; font
+ -style:italic\;">Sans titre</span></span><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260929T063000Z
 DTEND:20260929T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2075354-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -214,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Présentation Majeures
 DTSTART:20261105T150000Z
 DTEND:20261105T170000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1989586-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Présentation Majeures\nEnseignants : M
@@ -237,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Amphi de rentrée
 DTSTART:20260911T110000Z
 DTEND:20260911T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1993266-6-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Amphi de rentrée\nEnse
@@ -274,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Présentation International
 DTSTART:20260911T131500Z
 DTEND:20260911T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1993288-6-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Présentation Internati
@@ -305,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Présentation Stage ING3
 DTSTART:20260911T141500Z
 DTEND:20260911T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1993289-6-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Présentation Stage ING
@@ -336,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:Réunion délégués
 DTSTART:20261105T130000Z
 DTEND:20261105T150000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1993464-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Réunion délégués\nEnseignants : M. 
@@ -359,7 +387,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20260918T131500Z
 DTEND:20260918T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1993509-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nEnseignant : Mme ROU
@@ -398,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261016T120000Z
 DTEND:20261016T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1993915-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
@@ -414,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261106T130000Z
 DTEND:20261106T140000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1993915-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
@@ -430,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261028T073000Z
 DTEND:20261028T093000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1993918-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
@@ -443,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:Prise de Parole
 DTSTART:20260925T141500Z
 DTEND:20260925T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1993981-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
@@ -473,7 +501,7 @@ BEGIN:VEVENT
 SUMMARY:Prise de Parole
 DTSTART:20261002T063000Z
 DTEND:20261002T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1993982-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
@@ -503,25 +531,34 @@ BEGIN:VEVENT
 SUMMARY:Prise de Parole
 DTSTART:20261009T063000Z
 DTEND:20261009T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1993982-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
  CHRISTOPHE\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique de ce
- tte séance : \n<span  style="color: Silver\;"><span style="font-weight:no
- rmal\; font-style:italic\;">Sans titre</span></span>\n
+ tte séance : \n<span style="font-weight:bold\;">contenu</span><br /><div 
+ class="teams"></div><div class="sws"><div style="font-family: arial\,helve
+ tica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" h
+ ref="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>S
+ oWeSign avec le code établissement 7705</div><hr></div><div class="hp"><d
+ iv style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">S
+ vp\, ajoutez vos documents ici...</div></div>\n
 LAST-MODIFIED:20260731T125413Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prise de Parole<br/>Enseignant : M
  . BEDIN CHRISTOPHE<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>Conten
- u pédagogique de cette séance : <br/><span  style="color: Silver\;"><spa
- n style="font-weight:normal\; font-style:italic\;">Sans titre</span></span
- ><br/>
+ u pédagogique de cette séance : <br/><span style="font-weight:bold\;">co
+ ntenu</span><br /><div class="teams"></div><div class="sws"><div style="fo
+ nt-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoW
+ eSign" rel="noopener" href="https://app.sowesign.com" target="_blank">Appe
+ l en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr><
+ /div><div class="hp"><div style="font-family: arial\,helvetica\,sans-serif
+ \; font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20260925T120000Z
 DTEND:20260925T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1994153-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -552,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261026T120000Z
 DTEND:20261026T140000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1994183-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -574,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261106T151500Z
 DTEND:20261106T161500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1994198-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -592,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261001T063000Z
 DTEND:20261001T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1994222-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -622,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261015T063000Z
 DTEND:20261015T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1994222-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -640,24 +677,34 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261009T153000Z
 DTEND:20261009T173000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1994527-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
- ype : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  style=
- "color: Silver\;"><span style="font-weight:normal\; font-style:italic\;">S
- ans titre</span></span>\n
+ ype : ELEARNING\n\nContenu pédagogique de cette séance : \n<span style="
+ font-weight:bold\;">contenu</span><br /><div class="teams"></div><div clas
+ s="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-size:
+  13px\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com
+ " target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établis
+ sement 7705</div><hr></div><div class="hp"><div style="font-family: arial
+ \,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents i
+ ci...</div></div>\n
 LAST-MODIFIED:20260831T125716Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
   DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
- : <br/><span  style="color: Silver\;"><span style="font-weight:normal\; fo
- nt-style:italic\;">Sans titre</span></span><br/>
+ : <br/><span style="font-weight:bold\;">contenu</span><br /><div class="te
+ ams"></div><div class="sws"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="http
+ s://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign a
+ vec le code établissement 7705</div><hr></div><div class="hp"><div style=
+ "font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajou
+ tez vos documents ici...</div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261001T153000Z
 DTEND:20261001T173000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1994541-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -684,7 +731,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261029T141500Z
 DTEND:20261029T161500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1994543-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -701,7 +748,7 @@ BEGIN:VEVENT
 SUMMARY:Actualites de la Géopolitique
 DTSTART:20261107T094500Z
 DTEND:20261107T114500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1994663-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Actualites de la Géopolitique\nTD : In
@@ -714,28 +761,38 @@ BEGIN:VEVENT
 SUMMARY:Promotion école
 DTSTART:20261008T110000Z
 DTEND:20261008T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2002844-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Promotion école\nEnsei
  gnant : Mme CONTAUT LAURENCE\nTD : Ing3 Gr DU01\, Ing3 Gr SL01\nSalle : Sa
  lle EM010 - Amphithéâtre - EIFFEL 1\nType : CRS-ATLIER\n\nContenu pédag
- ogique de cette séance : \n<span  style="color: Silver\;"><span style="fo
- nt-weight:normal\; font-style:italic\;">Sans titre</span></span>\n
+ ogique de cette séance : \n<span style="font-weight:bold\;">contenu</span
+ ><br /><div class="teams"></div><div class="sws"><div style="font-family: 
+ arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel=
+ "noopener" href="https://app.sowesign.com" target="_blank">Appel en ligne<
+ /a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><div c
+ lass="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-siz
+ e: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
 LAST-MODIFIED:20260925T151934Z
 LOCATION;LANGUAGE=fr:Salle EM010 - Amphithéâtre - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Mémo : fermé<br/>Matière : Promotion écol
  e<br/>Enseignant : Mme CONTAUT LAURENCE<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL
  01<br/>Salle : Salle EM010 - Amphithéâtre - EIFFEL 1<br/>Type : CRS-ATLI
- ER<br/><br/>Contenu pédagogique de cette séance : <br/><span  style="col
- or: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans 
- titre</span></span><br/>
+ ER<br/><br/>Contenu pédagogique de cette séance : <br/><span style="font
+ -weight:bold\;">contenu</span><br /><div class="teams"></div><div class="s
+ ws"><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13p
+ t\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com" ta
+ rget="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établisseme
+ nt 7705</div><hr></div><div class="hp"><div style="font-family: arial\,hel
+ vetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...
+ </div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Promotion école
 DTSTART:20261003T120000Z
 DTEND:20261003T140000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2002845-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Promotion école\nEnseignant : Mme CONT
@@ -765,7 +822,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261030T080000Z
 DTEND:20261030T093000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2009726-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nTD : Ing3 Gr DU01\nSa
@@ -784,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260922T110000Z
 DTEND:20260922T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2009784-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -814,7 +871,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261007T084500Z
 DTEND:20261007T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2009793-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -841,7 +898,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260914T084500Z
 DTEND:20260914T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2009802-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -870,7 +927,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261026T094500Z
 DTEND:20261026T114500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2009802-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -887,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261005T063000Z
 DTEND:20261005T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2009833-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Mathématiques 5\nEnsei
@@ -917,7 +974,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261016T063000Z
 DTEND:20261016T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2009844-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -934,7 +991,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261030T100000Z
 DTEND:20261030T113000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2009850-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nTD : Ing3 Gr DU01\n
@@ -953,7 +1010,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261103T073000Z
 DTEND:20261103T093000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010048-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -971,7 +1028,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261013T084500Z
 DTEND:20261013T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010067-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -989,7 +1046,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261027T094500Z
 DTEND:20261027T114500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010067-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -1007,7 +1064,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261102T130000Z
 DTEND:20261102T140000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010106-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -1025,7 +1082,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261028T130000Z
 DTEND:20261028T140000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010117-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -1043,7 +1100,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261016T084500Z
 DTEND:20261016T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010130-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -1061,7 +1118,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260918T063000Z
 DTEND:20260918T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010131-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Electromagnétisme\nEns
@@ -1091,7 +1148,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261105T080000Z
 DTEND:20261105T093000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010317-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nTD : Ing3 Gr
@@ -1107,7 +1164,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260922T063000Z
 DTEND:20260922T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010418-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -1139,7 +1196,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261102T151500Z
 DTEND:20261102T161500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010427-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -1161,29 +1218,39 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261008T063000Z
 DTEND:20261008T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010437-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
   Mme SIROT ISABELLE\nTD : Ing3 Gr DU01\nSalle : Salle EM314 (Laboratoire E
  lectronique / Informatique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu
-  pédagogique de cette séance : \n<span  style="color: Silver\;"><span st
- yle="font-weight:normal\; font-style:italic\;">Sans titre</span></span>\n
+  pédagogique de cette séance : \n<span style="font-weight:bold\;">conten
+ u</span><br /><div class="teams"></div><div class="sws"><div style="font-f
+ amily: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSig
+ n" rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en
+  ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div
+ ><div class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; f
+ ont-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
 LAST-MODIFIED:20260729T140135Z
 LOCATION;LANGUAGE=fr:Salle EM314 (Laboratoire Electronique / Informatique)
   - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
  ignant : Mme SIROT ISABELLE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM314 
  (Laboratoire Electronique / Informatique) - EIFFEL 1 (Meet-up)<br/>Type : 
- CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><span  style=
- "color: Silver\;"><span style="font-weight:normal\; font-style:italic\;">S
- ans titre</span></span><br/>
+ CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><span style="
+ font-weight:bold\;">contenu</span><br /><div class="teams"></div><div clas
+ s="sws"><div style="font-family: arial\,helvetica\,sans-serif\; font-size:
+  13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.sowesign.com
+ " target="_blank">Appel en ligne</a><br><br>SoWeSign avec le code établis
+ sement 7705</div><hr></div><div class="hp"><div style="font-family: arial
+ \,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos documents i
+ ci...</div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261102T163000Z
 DTEND:20261102T173000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010452-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -1205,7 +1272,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261026T151500Z
 DTEND:20261026T161500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010480-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Soutenance\nMatière : Prototypage électr
@@ -1228,7 +1295,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261028T094500Z
 DTEND:20261028T114500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010483-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Soutenance\nMatière : Prototypage électr
@@ -1251,7 +1318,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261026T163000Z
 DTEND:20261026T173000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010488-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Soutenance\nMatière : Prototypage électr
@@ -1274,7 +1341,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261005T084500Z
 DTEND:20261005T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010507-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Mathématiques 5\nEnsei
@@ -1304,7 +1371,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260928T120000Z
 DTEND:20260928T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010510-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -1336,7 +1403,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261005T120000Z
 DTEND:20261005T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010510-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -1368,7 +1435,7 @@ BEGIN:VEVENT
 SUMMARY:Soutien Prototypage élec
 DTSTART:20261029T163000Z
 DTEND:20261029T183000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010536-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Soutien Prototypage élec\nEnseignant :
@@ -1382,26 +1449,36 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261009T084500Z
 DTEND:20261009T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010929-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
   Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nType : CRS-
- TP\n\nContenu pédagogique de cette séance : \n<span  style="color: Silve
- r\;"><span style="font-weight:normal\; font-style:italic\;">Sans titre</sp
- an></span>\n
+ TP\n\nContenu pédagogique de cette séance : \n<span style="font-weight:b
+ old\;">contenu</span><br /><div class="teams"></div><div class="sws"><div 
+ style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a t
+ itle="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_bl
+ ank">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</
+ div><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,s
+ ans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></d
+ iv>\n
 LAST-MODIFIED:20260831T125757Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
  r/>Type : CRS-TP<br/><br/>Contenu pédagogique de cette séance : <br/><sp
- an  style="color: Silver\;"><span style="font-weight:normal\; font-style:i
- talic\;">Sans titre</span></span><br/>
+ an style="font-weight:bold\;">contenu</span><br /><div class="teams"></div
+ ><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; 
+ font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.so
+ wesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le cod
+ e établissement 7705</div><hr></div><div class="hp"><div style="font-fami
+ ly: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos do
+ cuments ici...</div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261016T131500Z
 DTEND:20261016T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010945-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
@@ -1417,7 +1494,7 @@ BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261106T141500Z
 DTEND:20261106T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2010945-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
@@ -1433,7 +1510,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261102T141500Z
 DTEND:20261102T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011011-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -1451,7 +1528,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261002T120000Z
 DTEND:20261002T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011019-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -1481,7 +1558,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261030T130000Z
 DTEND:20261030T140000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011019-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -1500,7 +1577,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260914T153000Z
 DTEND:20260914T163000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011037-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -1530,7 +1607,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260914T141500Z
 DTEND:20260914T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011042-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -1560,7 +1637,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260921T120000Z
 DTEND:20260921T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011394-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -1590,7 +1667,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261104T141500Z
 DTEND:20261104T161500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011402-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -1609,7 +1686,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260930T141500Z
 DTEND:20260930T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011442-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -1639,7 +1716,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260930T153000Z
 DTEND:20260930T163000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011443-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -1669,7 +1746,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261106T163000Z
 DTEND:20261106T173000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011829-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -1687,7 +1764,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260918T084500Z
 DTEND:20260918T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011861-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -1717,7 +1794,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260925T084500Z
 DTEND:20260925T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011861-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -1750,7 +1827,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261002T084500Z
 DTEND:20261002T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011861-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -1780,7 +1857,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261002T131500Z
 DTEND:20261002T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011870-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -1810,7 +1887,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261030T141500Z
 DTEND:20261030T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011870-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -1829,7 +1906,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260914T120000Z
 DTEND:20260914T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011898-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Algorithmique et Progra
@@ -1860,7 +1937,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260914T131500Z
 DTEND:20260914T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011900-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Algorithmique et Progra
@@ -1891,7 +1968,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261106T094500Z
 DTEND:20261106T114500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2011936-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -1904,7 +1981,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261103T163000Z
 DTEND:20261103T183000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2012008-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -1917,7 +1994,7 @@ BEGIN:VEVENT
 SUMMARY:Versioning ING3
 DTSTART:20261016T141500Z
 DTEND:20261016T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2012522-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
@@ -1932,7 +2009,7 @@ BEGIN:VEVENT
 SUMMARY:Versioning ING3
 DTSTART:20261012T141500Z
 DTEND:20261012T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2012523-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
@@ -1948,7 +2025,7 @@ BEGIN:VEVENT
 SUMMARY:Versioning ING3
 DTSTART:20261012T153000Z
 DTEND:20261012T163000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2012524-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
@@ -1964,7 +2041,7 @@ BEGIN:VEVENT
 SUMMARY:Versioning ING3
 DTSTART:20261016T153000Z
 DTEND:20261016T163000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2012525-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
@@ -1979,7 +2056,7 @@ BEGIN:VEVENT
 SUMMARY:Méthodologie de projet
 DTSTART:20261014T153000Z
 DTEND:20261014T173000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2012559-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Méthodologie de projet\nEnseignant : M
@@ -1997,7 +2074,7 @@ BEGIN:VEVENT
 SUMMARY:Méthodologie de projet
 DTSTART:20260928T141500Z
 DTEND:20260928T161500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2012561-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : salle pour étudiants - intervenant à dis
@@ -2040,7 +2117,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20260925T131500Z
 DTEND:20260925T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2012654-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -2071,7 +2148,7 @@ BEGIN:VEVENT
 SUMMARY:Prise de Parole
 DTSTART:20260925T153000Z
 DTEND:20260925T163000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2012656-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
@@ -2101,7 +2178,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261014T063000Z
 DTEND:20261014T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2012678-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2123,7 +2200,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261104T163000Z
 DTEND:20261104T173000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2013195-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2142,7 +2219,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261013T063000Z
 DTEND:20261013T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2013267-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2164,7 +2241,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260928T131500Z
 DTEND:20260928T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2013280-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2196,7 +2273,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261005T131500Z
 DTEND:20261005T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2013280-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2228,7 +2305,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260923T084500Z
 DTEND:20260923T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2023423-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2260,7 +2337,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260930T084500Z
 DTEND:20260930T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2023423-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2292,7 +2369,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261104T094500Z
 DTEND:20261104T114500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2023423-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2314,7 +2391,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260925T063000Z
 DTEND:20260925T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2023424-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2344,7 +2421,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260923T063000Z
 DTEND:20260923T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2023434-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -2373,7 +2450,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260930T063000Z
 DTEND:20260930T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2023434-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -2402,7 +2479,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261104T073000Z
 DTEND:20261104T093000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2023434-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -2419,7 +2496,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261012T084500Z
 DTEND:20261012T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2039504-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2438,7 +2515,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261102T094500Z
 DTEND:20261102T114500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2039504-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2457,7 +2534,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261026T073000Z
 DTEND:20261026T093000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2039511-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2476,27 +2553,37 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261009T131500Z
 DTEND:20261009T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2039515-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
   Objet\nEnseignant : M. SEGADO JEAN PIERRE\nTD : Ing3 Gr DU01\nSalle : Sal
  le EM225 - EIFFEL 1\nType : CRS-TP\n\nContenu pédagogique de cette séanc
- e : \n<span  style="color: Silver\;"><span style="font-weight:normal\; fon
- t-style:italic\;">Sans titre</span></span>\n
+ e : \n<span style="font-weight:bold\;">contenu</span><br /><div class="tea
+ ms"></div><div class="sws"><div style="font-family: arial\,helvetica\,sans
+ -serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https
+ ://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign av
+ ec le code établissement 7705</div><hr></div><div class="hp"><div style="
+ font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
+ ez vos documents ici...</div></div>\n
 LAST-MODIFIED:20260915T095204Z
 LOCATION;LANGUAGE=fr:Salle EM225 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
  r/>Salle : Salle EM225 - EIFFEL 1<br/>Type : CRS-TP<br/><br/>Contenu péda
- gogique de cette séance : <br/><span  style="color: Silver\;"><span style
- ="font-weight:normal\; font-style:italic\;">Sans titre</span></span><br/>
+ gogique de cette séance : <br/><span style="font-weight:bold\;">contenu</
+ span><br /><div class="teams"></div><div class="sws"><div style="font-fami
+ ly: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" 
+ rel="noopener" href="https://app.sowesign.com" target="_blank">Appel en li
+ gne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><d
+ iv class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font
+ -size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260921T131500Z
 DTEND:20260921T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2040033-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2526,7 +2613,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260923T131500Z
 DTEND:20260923T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060451-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2559,7 +2646,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261007T131500Z
 DTEND:20261007T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060451-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2589,7 +2676,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261014T131500Z
 DTEND:20261014T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060451-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2610,7 +2697,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261029T073000Z
 DTEND:20261029T093000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060452-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2629,7 +2716,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261103T094500Z
 DTEND:20261103T114500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060453-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -2647,7 +2734,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260930T131500Z
 DTEND:20260930T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060454-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -2677,7 +2764,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260930T120000Z
 DTEND:20260930T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060455-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -2707,7 +2794,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261014T084500Z
 DTEND:20261014T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060456-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -2725,7 +2812,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261028T163000Z
 DTEND:20261028T173000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060472-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -2743,7 +2830,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261028T151500Z
 DTEND:20261028T161500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060473-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -2761,7 +2848,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260929T084500Z
 DTEND:20260929T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060483-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2791,7 +2878,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261006T084500Z
 DTEND:20261006T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060483-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2821,7 +2908,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261007T063000Z
 DTEND:20261007T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060513-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -2851,7 +2938,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261006T063000Z
 DTEND:20261006T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2060516-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2881,7 +2968,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261012T120000Z
 DTEND:20261012T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2063743-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2900,7 +2987,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261012T131500Z
 DTEND:20261012T141500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2063744-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2919,7 +3006,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260923T120000Z
 DTEND:20260923T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2068566-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2952,7 +3039,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261007T120000Z
 DTEND:20261007T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2068566-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -2982,7 +3069,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261014T120000Z
 DTEND:20261014T130000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2068566-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3003,7 +3090,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261104T130000Z
 DTEND:20261104T140000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2068566-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3022,7 +3109,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261028T141500Z
 DTEND:20261028T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2068570-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -3040,7 +3127,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261027T073000Z
 DTEND:20261027T093000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2070732-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -3057,7 +3144,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260928T084500Z
 DTEND:20260928T104500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2070733-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -3087,7 +3174,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20260926T063000Z
 DTEND:20260926T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2074527-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -3114,7 +3201,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261017T063000Z
 DTEND:20261017T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2074527-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -3131,7 +3218,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261107T073000Z
 DTEND:20261107T093000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2074527-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -3148,7 +3235,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260914T063000Z
 DTEND:20260914T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2076793-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -3177,7 +3264,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260921T063000Z
 DTEND:20260921T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2076793-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -3206,7 +3293,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260928T063000Z
 DTEND:20260928T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2076793-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -3236,7 +3323,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261012T063000Z
 DTEND:20261012T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2076793-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -3253,7 +3340,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261102T073000Z
 DTEND:20261102T093000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2076793-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -3270,7 +3357,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261027T141500Z
 DTEND:20261027T161500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1986103-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : amphi 10\nMatière : Prototypage électron
@@ -3291,7 +3378,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260929T131500Z
 DTEND:20260929T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1986111-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : FERME\nMatière : Prototypage électroniqu
@@ -3322,7 +3409,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261013T131500Z
 DTEND:20261013T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-1986127-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : CV ou Défense\nMatière : Prototypage él
@@ -3341,7 +3428,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261103T141500Z
 DTEND:20261103T161500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2030403-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : amphi 10 a confirmer\nMatière : Prototypa
@@ -3362,7 +3449,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261006T131500Z
 DTEND:20261006T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2055699-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Prototypage électroniq
@@ -3393,7 +3480,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260929T153000Z
 DTEND:20260929T173000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Cours-2074532-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : FERME\nMatière : Prototypage électroniqu
@@ -3424,7 +3511,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260922T131500Z
 DTEND:20260922T151500Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:COURSANNULE-46900-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Reporté : \nMatière : Prototypage électronique
@@ -3440,7 +3527,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260924T063000Z
 DTEND:20260924T083000Z
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:COURSANNULE-46874-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Reporté : \nMatière : Electromagnétisme\nEnseig
@@ -3456,7 +3543,7 @@ BEGIN:VEVENT
 SUMMARY:Férié
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Ferie-693-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 END:VEVENT
@@ -3464,7 +3551,7 @@ BEGIN:VEVENT
 SUMMARY:Férié
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260925T214230Z
+DTSTAMP:20260926T001430Z
 UID:Ferie-694-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 END:VEVENT
