@@ -16,7 +16,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261215T140000Z
 DTEND:20261215T150000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1987715-20-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Cloisons ouvertes\nMatière : Anglais : Co
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : MyCow
 DTSTART:20261005T153000Z
 DTEND:20261005T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2031672-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : MyCow\nTD : Ing3 B2 (DU)\nTyp
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : MyCow
 DTSTART:20261030T163000Z
 DTEND:20261030T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2031673-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : MyCow\nTD : Ing3 B2 (DU)\nTyp
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : MyCow
 DTSTART:20261211T141500Z
 DTEND:20261211T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2078513-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : MyCow\nTD : Ing3 B2 (DU)\nTyp
@@ -106,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20260924T084500Z
 DTEND:20260924T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089444-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261001T084500Z
 DTEND:20261001T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089444-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261008T084500Z
 DTEND:20261008T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089444-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261015T084500Z
 DTEND:20261015T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089444-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261029T094500Z
 DTEND:20261029T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089444-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -258,7 +258,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261119T094500Z
 DTEND:20261119T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089444-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261126T094500Z
 DTEND:20261126T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089444-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261210T094500Z
 DTEND:20261210T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089444-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -336,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261217T094500Z
 DTEND:20261217T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089444-20-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -354,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : Communication for engineers
 DTSTART:20261105T094500Z
 DTEND:20261105T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089445-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : Communication for engineers\n
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:Anglais : MyCow
 DTSTART:20261114T073000Z
 DTEND:20261114T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2092640-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : MyCow\nTD : Ing3 B2 (DU)\nTyp
@@ -409,7 +409,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Anglais : MyCow\nTD : Ing3 B2 (DU)\nTyp
  ment 7705</div><hr></div><div class="hp"><div style="font-family: arial\,h
  elvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici.
  ..</div></div>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : MyCow<br/>TD : Ing3 B2 (
  DU)<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance : 
  <br/><span style="font-weight:bold\;">contenu</span><br /><div class="team
@@ -424,14 +424,14 @@ BEGIN:VEVENT
 SUMMARY:Anglais : MyCow
 DTSTART:20261128T073000Z
 DTEND:20261128T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2092640-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Anglais : MyCow\nTD : Ing3 B2 (DU)\nTyp
  e : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  style="c
  olor: Silver\;"><span style="font-weight:normal\; font-style:italic\;">San
  s titre</span></span>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Anglais : MyCow<br/>TD : Ing3 B2 (
  DU)<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance : 
  <br/><span  style="color: Silver\;"><span style="font-weight:normal\; font
@@ -441,7 +441,7 @@ BEGIN:VEVENT
 SUMMARY:SHIFT(s) 3 : S'engager pour changer
 DTSTART:20261112T094500Z
 DTEND:20261112T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1991873-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Webinaire\nMatière : SHIFT(s) 3 : S'engag
@@ -454,7 +454,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : Webinaire\nMatière : SHIFT(s) 3 : S'engag
  e code établissement 7705</div><hr></div><div class="hp"><div style="font
  -family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez v
  os documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Mémo : Webinaire<br/>Matière : SHIFT(s) 3 :
   S'engager pour changer<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01\, Ing3 inter 
  Gr DU01\, Ing3 inter Gr SL01<br/>Type : CRS<br/><br/>Contenu pédagogique 
@@ -470,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:SHIFT(s) 3 : S'engager pour changer
 DTSTART:20261202T094500Z
 DTEND:20261202T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1991910-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
@@ -478,7 +478,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
  Type : CRS\n\nContenu pédagogique de cette séance : \n<span  style="colo
  r: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans t
  itre</span></span>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : SHIFT(s) 3 : S'engager pour change
  r<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01\, Ing3 inter Gr DU01\, Ing3 inter G
  r SL01<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
@@ -489,7 +489,7 @@ BEGIN:VEVENT
 SUMMARY:SHIFT(s) 3 : S'engager pour changer
 DTSTART:20261202T073000Z
 DTEND:20261202T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1991911-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
@@ -497,7 +497,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
  Type : CRS\n\nContenu pédagogique de cette séance : \n<span  style="colo
  r: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans t
  itre</span></span>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : SHIFT(s) 3 : S'engager pour change
  r<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01\, Ing3 inter Gr DU01\, Ing3 inter G
  r SL01<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:SHIFT(s) 3 : S'engager pour changer
 DTSTART:20261202T120000Z
 DTEND:20261202T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1991912-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
@@ -516,7 +516,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
  Type : CRS\n\nContenu pédagogique de cette séance : \n<span  style="colo
  r: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans t
  itre</span></span>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : SHIFT(s) 3 : S'engager pour change
  r<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01\, Ing3 inter Gr DU01\, Ing3 inter G
  r SL01<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
@@ -527,7 +527,7 @@ BEGIN:VEVENT
 SUMMARY:SHIFT(s) 3 : S'engager pour changer
 DTSTART:20261202T141500Z
 DTEND:20261202T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1991913-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
@@ -535,7 +535,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
  Type : CRS\n\nContenu pédagogique de cette séance : \n<span  style="colo
  r: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans t
  itre</span></span>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : SHIFT(s) 3 : S'engager pour change
  r<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01\, Ing3 inter Gr DU01\, Ing3 inter G
  r SL01<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
@@ -546,7 +546,7 @@ BEGIN:VEVENT
 SUMMARY:SHIFT(s) 3 : S'engager pour changer
 DTSTART:20261202T163000Z
 DTEND:20261202T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1991931-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
@@ -554,7 +554,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
  Type : CRS\n\nContenu pédagogique de cette séance : \n<span  style="colo
  r: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans t
  itre</span></span>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : SHIFT(s) 3 : S'engager pour change
  r<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01\, Ing3 inter Gr DU01\, Ing3 inter G
  r SL01<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
@@ -565,7 +565,7 @@ BEGIN:VEVENT
 SUMMARY:SHIFT(s) 3 : S'engager pour changer
 DTSTART:20261203T073000Z
 DTEND:20261203T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1991933-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
@@ -573,7 +573,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
  Type : CRS\n\nContenu pédagogique de cette séance : \n<span  style="colo
  r: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans t
  itre</span></span>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : SHIFT(s) 3 : S'engager pour change
  r<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01\, Ing3 inter Gr DU01\, Ing3 inter G
  r SL01<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
@@ -584,7 +584,7 @@ BEGIN:VEVENT
 SUMMARY:SHIFT(s) 3 : S'engager pour changer
 DTSTART:20261203T094500Z
 DTEND:20261203T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1991938-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
@@ -592,7 +592,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
  Type : CRS\n\nContenu pédagogique de cette séance : \n<span  style="colo
  r: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans t
  itre</span></span>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : SHIFT(s) 3 : S'engager pour change
  r<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01\, Ing3 inter Gr DU01\, Ing3 inter G
  r SL01<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
@@ -603,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:SHIFT(s) 3 : S'engager pour changer
 DTSTART:20261203T120000Z
 DTEND:20261203T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1991940-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
@@ -611,7 +611,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
  Type : CRS\n\nContenu pédagogique de cette séance : \n<span  style="colo
  r: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans t
  itre</span></span>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : SHIFT(s) 3 : S'engager pour change
  r<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01\, Ing3 inter Gr DU01\, Ing3 inter G
  r SL01<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
@@ -622,7 +622,7 @@ BEGIN:VEVENT
 SUMMARY:SHIFT(s) 3 : S'engager pour changer
 DTSTART:20261203T141500Z
 DTEND:20261203T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1991943-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
@@ -630,7 +630,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
  Type : CRS\n\nContenu pédagogique de cette séance : \n<span  style="colo
  r: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans t
  itre</span></span>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : SHIFT(s) 3 : S'engager pour change
  r<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01\, Ing3 inter Gr DU01\, Ing3 inter G
  r SL01<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
@@ -641,7 +641,7 @@ BEGIN:VEVENT
 SUMMARY:SHIFT(s) 3 : S'engager pour changer
 DTSTART:20261203T163000Z
 DTEND:20261203T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1991946-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
@@ -649,7 +649,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : SHIFT(s) 3 : S'engager pour changer\nTD
  Type : CRS\n\nContenu pédagogique de cette séance : \n<span  style="colo
  r: Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans t
  itre</span></span>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : SHIFT(s) 3 : S'engager pour change
  r<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01\, Ing3 inter Gr DU01\, Ing3 inter G
  r SL01<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <br
@@ -660,7 +660,7 @@ BEGIN:VEVENT
 SUMMARY:Amphi de rentrée
 DTSTART:20260911T110000Z
 DTEND:20260911T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993266-6-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Amphi de rentrée\nEnse
@@ -697,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:Présentation International
 DTSTART:20260911T131500Z
 DTEND:20260911T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993288-6-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Présentation Internati
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:Présentation Stage ING3
 DTSTART:20260911T141500Z
 DTEND:20260911T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993289-6-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Présentation Stage ING
@@ -759,7 +759,7 @@ BEGIN:VEVENT
 SUMMARY:Réunion délégués
 DTSTART:20261112T130000Z
 DTEND:20261112T150000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993464-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Réunion délégués\nEnseignants : M. 
@@ -782,7 +782,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Réunion délégués\nEnseignants : M.
  ><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,sans
  -serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>
  \n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle EM319 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Réunion délégués<br/>Enseignan
  ts : M. BORGNON LUCAS\, M. CHACOUCHE KHALED\, Mme COUDRAY FABIENNE\, Mme C
@@ -809,7 +809,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20260918T131500Z
 DTEND:20260918T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993509-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nEnseignant : Mme ROU
@@ -848,7 +848,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261209T094500Z
 DTEND:20261209T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993538-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\, 
@@ -870,13 +870,13 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261205T100000Z
 DTEND:20261205T110000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993825-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nTD : Ing3 Gr DU01\, I
  ng3 Gr SL01\nSalles : Salle EM219 - EIFFEL 1\, Salle EM225 - EIFFEL 1\nTyp
  e : EVALUATION\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle EM219 - EIFFEL 1\, Salle EM225 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>TD : Ing3 Gr 
  DU01\, Ing3 Gr SL01<br/>Salles : Salle EM219 - EIFFEL 1\, Salle EM225 - EI
@@ -886,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261016T120000Z
 DTEND:20261016T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993915-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
@@ -899,7 +899,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant :
  t 7705</div><hr></div><div class="hp"><div style="font-family: arial\,helv
  etica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...<
  /div></div>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4
 X-ALT-DESC;FMTTYPE=text/html:Matière : Travailler en entreprise<br/>Ensei
  gnant : Mme MAILLARD VAITE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G015 - 
@@ -916,7 +916,7 @@ BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261106T130000Z
 DTEND:20261106T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993915-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
@@ -929,7 +929,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant :
  t 7705</div><hr></div><div class="hp"><div style="font-family: arial\,helv
  etica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...<
  /div></div>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle SC212 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Travailler en entreprise<br/>Ensei
  gnant : Mme MAILLARD VAITE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC212 -
@@ -946,7 +946,7 @@ BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261028T073000Z
 DTEND:20261028T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993918-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Travailler en entrepris
@@ -976,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261123T073000Z
 DTEND:20261123T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993920-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
@@ -988,7 +988,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant :
  a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><div cl
  ass="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-size
  : 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261113T074517Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Travailler en entreprise<br/>Ensei
  gnant : Mme MAILLARD VAITE<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD-CV<br/>
  <br/>Contenu pédagogique de cette séance : <br/><span style="font-weight
@@ -1004,7 +1004,7 @@ BEGIN:VEVENT
 SUMMARY:Prise de Parole
 DTSTART:20260925T141500Z
 DTEND:20260925T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993981-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
@@ -1034,7 +1034,7 @@ BEGIN:VEVENT
 SUMMARY:Prise de Parole
 DTSTART:20261002T063000Z
 DTEND:20261002T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993982-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
@@ -1064,7 +1064,7 @@ BEGIN:VEVENT
 SUMMARY:Prise de Parole
 DTSTART:20261009T063000Z
 DTEND:20261009T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1993982-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
@@ -1094,7 +1094,7 @@ BEGIN:VEVENT
 SUMMARY:Ethique de l'ingénieur
 DTSTART:20261201T163000Z
 DTEND:20261201T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994020-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Ethique de l'ingénieur\nEnseignant : M
@@ -1102,7 +1102,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Ethique de l'ingénieur\nEnseignant : M
   CRS-TD\n\nContenu pédagogique de cette séance : \n<span  style="color: 
  Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans titr
  e</span></span>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle EM111 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Ethique de l'ingénieur<br/>Enseig
  nant : M. LEPAGE ADRIEN<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM111 - EI
@@ -1114,7 +1114,7 @@ BEGIN:VEVENT
 SUMMARY:Ethique de l'ingénieur
 DTSTART:20261123T120000Z
 DTEND:20261123T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994021-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Ethique de l'ingénieur\nEnseignant : M
@@ -1127,7 +1127,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Ethique de l'ingénieur\nEnseignant : M
  705</div><hr></div><div class="hp"><div style="font-family: arial\,helveti
  ca\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</di
  v></div>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle EM318 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Ethique de l'ingénieur<br/>Enseig
  nant : M. LEPAGE ADRIEN<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM318 - EI
@@ -1144,7 +1144,7 @@ BEGIN:VEVENT
 SUMMARY:Ethique de l'ingénieur
 DTSTART:20261207T130000Z
 DTEND:20261207T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994055-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Ethique de l'ingénieur\nEnseignant : M
@@ -1162,7 +1162,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20260925T120000Z
 DTEND:20260925T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994153-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -1193,7 +1193,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261026T120000Z
 DTEND:20261026T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994183-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -1224,7 +1224,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261106T151500Z
 DTEND:20261106T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994198-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -1237,7 +1237,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
  t 7705</div><hr></div><div class="hp"><div style="font-family: arial\,helv
  etica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...<
  /div></div>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle SC109 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
  M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC109 - EIFFEL 
@@ -1254,7 +1254,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261110T073000Z
 DTEND:20261110T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994201-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : BENANI A
@@ -1267,7 +1267,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : BENANI A
  ><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,sans
  -serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>
  \n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
  BENANI ABDERAHMAN<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G015 - EIFFEL 4<
@@ -1284,7 +1284,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261001T063000Z
 DTEND:20261001T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994222-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -1297,7 +1297,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
  v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
  s-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div
  >\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle EM319 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
  M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM319 - EIFFEL 
@@ -1314,7 +1314,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261015T063000Z
 DTEND:20261015T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994222-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -1327,7 +1327,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
  t 7705</div><hr></div><div class="hp"><div style="font-family: arial\,helv
  etica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...<
  /div></div>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle SC114 (Atelier) - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
  M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC114 (Atelier)
@@ -1344,7 +1344,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261119T073000Z
 DTEND:20261119T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994222-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -1357,7 +1357,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
  t 7705</div><hr></div><div class="hp"><div style="font-family: arial\,helv
  etica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...<
  /div></div>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle EM227 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
  M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM227 - EIFFEL 
@@ -1374,7 +1374,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261127T073000Z
 DTEND:20261127T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994233-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -1387,7 +1387,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
  7705</div><hr></div><div class="hp"><div style="font-family: arial\,helvet
  ica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</d
  iv></div>\n
-LAST-MODIFIED:20261112T140345Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle P368 - EIFFEL 2 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
  M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle P368 - EIFFEL 2
@@ -1404,7 +1404,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261009T131500Z
 DTEND:20261009T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994541-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -1431,7 +1431,7 @@ BEGIN:VEVENT
 SUMMARY:Actualites de la Géopolitique
 DTSTART:20261103T173000Z
 DTEND:20261103T193000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1994663-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Actualites de la Géopolitique\nTD : In
@@ -1443,7 +1443,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Actualites de la Géopolitique\nTD : In
  code établissement 7705</div><hr></div><div class="hp"><div style="font-f
  amily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos
   documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Actualites de la Géopolitique<br/
  >TD : Ing3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de c
  ette séance : <br/><span style="font-weight:bold\;">contenu</span><br /><
@@ -1458,7 +1458,7 @@ BEGIN:VEVENT
 SUMMARY:Promotion école
 DTSTART:20261008T110000Z
 DTEND:20261008T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2002844-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : ouvert\nMatière : Promotion école\nEnsei
@@ -1488,7 +1488,7 @@ BEGIN:VEVENT
 SUMMARY:Promotion école
 DTSTART:20261003T120000Z
 DTEND:20261003T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2002845-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Promotion école\nEnseignant : Mme CONT
@@ -1518,7 +1518,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261030T080000Z
 DTEND:20261030T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009726-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : NE PAS TOUCHER A LA SALLE\nMatière : Math
@@ -1538,7 +1538,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261218T080000Z
 DTEND:20261218T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009727-20-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nTD : Ing3 Gr DU01\nSa
@@ -1558,7 +1558,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260922T110000Z
 DTEND:20260922T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009784-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -1588,7 +1588,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261109T130000Z
 DTEND:20261109T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009790-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -1601,7 +1601,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  c le code établissement 7705</div><hr></div><div class="hp"><div style="f
  ont-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoute
  z vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM216 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
@@ -1619,7 +1619,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261007T084500Z
 DTEND:20261007T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009793-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -1649,7 +1649,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260914T084500Z
 DTEND:20260914T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009802-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -1678,7 +1678,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261026T094500Z
 DTEND:20261026T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009802-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -1708,7 +1708,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261109T141500Z
 DTEND:20261109T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009805-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -1721,7 +1721,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  c le code établissement 7705</div><hr></div><div class="hp"><div style="f
  ont-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoute
  z vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM216 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
@@ -1739,7 +1739,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261127T130000Z
 DTEND:20261127T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009819-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -1752,7 +1752,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  5</div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
  \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
  </div>\n
-LAST-MODIFIED:20261112T143016Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle P442 - EIFFEL 2 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle P442 - EIFFEL 2 (M
@@ -1769,14 +1769,14 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261130T094500Z
 DTEND:20261130T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009824-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
  JAL SANA\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique de cett
  e séance : \n<span  style="color: Silver\;"><span style="font-weight:norm
  al\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>Contenu 
  pédagogique de cette séance : <br/><span  style="color: Silver\;"><span 
@@ -1787,7 +1787,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261208T073000Z
 DTEND:20261208T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009829-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -1804,7 +1804,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261005T063000Z
 DTEND:20261005T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009833-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Mathématiques 5\nEnsei
@@ -1834,34 +1834,37 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261125T073000Z
 DTEND:20261125T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009836-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
- JAL SANA\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique de cett
- e séance : \n<span style="font-weight:bold\;">contenu</span><br /><div cl
- ass="teams"></div><div class="sws"><div style="font-family: arial\,helveti
- ca\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener" hre
- f="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoW
- eSign avec le code établissement 7705</div><hr></div><div class="hp"><div
-  style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp
- \, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+ JAL SANA\nTD : Ing3 Gr DU01\nSalle : Salle G007 - EIFFEL 4\nType : CRS-TD
+ \n\nContenu pédagogique de cette séance : \n<span style="font-weight:bol
+ d\;">contenu</span><br /><div class="teams"></div><div class="sws"><div st
+ yle="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a tit
+ le="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_blan
+ k">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705</di
+ v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
+ s-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div
+ >\n
+LAST-MODIFIED:20261113T103033Z
+LOCATION;LANGUAGE=fr:Salle G007 - EIFFEL 4
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
- Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>Contenu 
- pédagogique de cette séance : <br/><span style="font-weight:bold\;">cont
- enu</span><br /><div class="teams"></div><div class="sws"><div style="font
- -family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeS
- ign" rel="noopener" href="https://app.sowesign.com" target="_blank">Appel 
- en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></d
- iv><div class="hp"><div style="font-family: arial\,helvetica\,sans-serif\;
-  font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+ Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G007 - EIFFEL 4<b
+ r/>Type : CRS-TD<br/><br/>Contenu pédagogique de cette séance : <br/><sp
+ an style="font-weight:bold\;">contenu</span><br /><div class="teams"></div
+ ><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif\; 
+ font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://app.so
+ wesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le cod
+ e établissement 7705</div><hr></div><div class="hp"><div style="font-fami
+ ly: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vos do
+ cuments ici...</div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261016T063000Z
 DTEND:20261016T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009844-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -1874,7 +1877,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  5</div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
  \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
  </div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle P361 - EIFFEL 2 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle P361 - EIFFEL 2 (M
@@ -1891,7 +1894,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261120T073000Z
 DTEND:20261120T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009844-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -1903,7 +1906,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  ppel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><h
  r></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-se
  rif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM321 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM321 - EIFFEL 1<b
@@ -1920,7 +1923,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261218T100000Z
 DTEND:20261218T113000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009849-20-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nTD : Ing3 Gr DU01\n
@@ -1940,7 +1943,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261030T100000Z
 DTEND:20261030T113000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2009850-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : NE PAS TOUCHER A LA SALLE\nMatière : Elec
@@ -1960,7 +1963,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261103T073000Z
 DTEND:20261103T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010048-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -1973,7 +1976,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  issement 7705</div><hr></div><div class="hp"><div style="font-family: aria
  l\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents 
  ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM114 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM114 - EI
@@ -1990,7 +1993,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261013T084500Z
 DTEND:20261013T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010067-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2003,7 +2006,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  ement 7705</div><hr></div><div class="hp"><div style="font-family: arial\,
  helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici
  ...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle SC108 (Atelier) - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC108 (Ate
@@ -2020,7 +2023,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261027T094500Z
 DTEND:20261027T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010067-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2033,7 +2036,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  ment 7705</div><hr></div><div class="hp"><div style="font-family: arial\,h
  elvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici.
  ..</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle P442 - EIFFEL 2 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle P442 - EIF
@@ -2050,7 +2053,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261110T094500Z
 DTEND:20261110T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010067-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2063,7 +2066,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  /a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><div c
  lass="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-siz
  e: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM314 (Laboratoire Electronique / Informatique)
   - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
@@ -2082,7 +2085,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261124T094500Z
 DTEND:20261124T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010067-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2095,7 +2098,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  /div><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,
  sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></
  div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G015 - EIF
@@ -2112,14 +2115,14 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261208T094500Z
 DTEND:20261208T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010067-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  AMBES CHRISTINE\nTD : Ing3 Gr DU01\nType : CRS\n\nContenu pédagogique de 
  cette séance : \n<span  style="color: Silver\;"><span style="font-weight:
  normal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Type : CRS<br/><br/>Cont
  enu pédagogique de cette séance : <br/><span  style="color: Silver\;"><s
@@ -2130,7 +2133,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261120T130000Z
 DTEND:20261120T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010074-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Electromagnétisme\nEns
@@ -2143,7 +2146,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Electromagnétisme\nEns
  e code établissement 7705</div><hr></div><div class="hp"><div style="font
  -family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez v
  os documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM226 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Mémo : fermé<br/>Matière : Electromagnéti
  sme<br/>Enseignant : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle
@@ -2160,35 +2163,37 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261126T073000Z
 DTEND:20261126T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010076-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
- AMBES CHRISTINE\nTD : Ing3 Gr DU01\nType : CRS\n\nContenu pédagogique de 
- cette séance : \n<span style="font-weight:bold\;">contenu</span><br /><di
- v class="teams"></div><div class="sws"><div style="font-family: arial\,hel
- vetica\,sans-serif\; font-size: 13px\;"><a title="SoWeSign" rel="noopener"
-  href="https://app.sowesign.com" target="_blank">Appel en ligne</a><br><br
- >SoWeSign avec le code établissement 7705</div><hr></div><div class="hp">
- <div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"
- >Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+ AMBES CHRISTINE\nTD : Ing3 Gr DU01\nSalle : Salle C-2.08 - EIFFEL 3\nType 
+ : CRS\n\nContenu pédagogique de cette séance : \n<span style="font-weigh
+ t:bold\;">contenu</span><br /><div class="teams"></div><div class="sws"><d
+ iv style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><
+ a title="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="
+ _blank">Appel en ligne</a><br><br>SoWeSign avec le code établissement 770
+ 5</div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
+ \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
+ </div>\n
+LAST-MODIFIED:20261113T103033Z
+LOCATION;LANGUAGE=fr:Salle C-2.08 - EIFFEL 3
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
- : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Type : CRS<br/><br/>Cont
- enu pédagogique de cette séance : <br/><span style="font-weight:bold\;">
- contenu</span><br /><div class="teams"></div><div class="sws"><div style="
- font-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="S
- oWeSign" rel="noopener" href="https://app.sowesign.com" target="_blank">Ap
- pel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr
- ></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-ser
- if\; font-size: 13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/
- >
+ : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle C-2.08 - E
+ IFFEL 3<br/>Type : CRS<br/><br/>Contenu pédagogique de cette séance : <b
+ r/><span style="font-weight:bold\;">contenu</span><br /><div class="teams"
+ ></div><div class="sws"><div style="font-family: arial\,helvetica\,sans-se
+ rif\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://
+ app.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec 
+ le code établissement 7705</div><hr></div><div class="hp"><div style="fon
+ t-family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez 
+ vos documents ici...</div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261120T141500Z
 DTEND:20261120T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010077-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Electromagnétisme\nEns
@@ -2201,7 +2206,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Electromagnétisme\nEns
  e code établissement 7705</div><hr></div><div class="hp"><div style="font
  -family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez v
  os documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM226 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Mémo : fermé<br/>Matière : Electromagnéti
  sme<br/>Enseignant : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle
@@ -2218,7 +2223,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261102T130000Z
 DTEND:20261102T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010106-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2231,7 +2236,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  code établissement 7705</div><hr></div><div class="hp"><div style="font-f
  amily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos
   documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle SC014 (MAC1 Prod & Post Prod) - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC014 (MAC
@@ -2248,7 +2253,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261201T141500Z
 DTEND:20261201T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010113-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2256,7 +2261,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  ronique / Informatique) - EIFFEL 1 (Meet-up)\nType : CRS\n\nContenu pédag
  ogique de cette séance : \n<span  style="color: Silver\;"><span style="fo
  nt-weight:normal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM314 (Laboratoire Electronique / Informatique)
   - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
@@ -2270,7 +2275,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261028T130000Z
 DTEND:20261028T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010117-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2300,14 +2305,14 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261201T094500Z
 DTEND:20261201T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010120-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  AMBES CHRISTINE\nTD : Ing3 Gr DU01\nType : CRS\n\nContenu pédagogique de 
  cette séance : \n<span  style="color: Silver\;"><span style="font-weight:
  normal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Type : CRS<br/><br/>Cont
  enu pédagogique de cette séance : <br/><span  style="color: Silver\;"><s
@@ -2318,7 +2323,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261016T084500Z
 DTEND:20261016T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010130-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -2348,7 +2353,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260918T063000Z
 DTEND:20260918T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010131-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Electromagnétisme\nEns
@@ -2378,7 +2383,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261209T080000Z
 DTEND:20261209T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010316-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nTD : Ing3 Gr
@@ -2395,13 +2400,13 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261112T110000Z
 DTEND:20261112T123000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010317-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nTD : Ing3 Gr
   DU01\, Ing3 Gr SL01\nSalles : Salle G002 - EIFFEL 4\, Salle G009 - EIFFEL
   4 (Meet-up)\nType : EVALUATION\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle G002 - EIFFEL 4\, Salle G009 - EIFFEL 4 (Meet-u
  p)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>TD :
@@ -2412,7 +2417,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260922T063000Z
 DTEND:20260922T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010418-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2444,7 +2449,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261102T151500Z
 DTEND:20261102T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010427-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2457,7 +2462,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -2476,7 +2481,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261109T151500Z
 DTEND:20261109T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010427-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2489,7 +2494,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM218 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -2508,7 +2513,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261008T063000Z
 DTEND:20261008T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010437-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2540,7 +2545,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261102T163000Z
 DTEND:20261102T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010452-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2553,7 +2558,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -2572,7 +2577,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261109T163000Z
 DTEND:20261109T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010452-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2585,7 +2590,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM218 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -2604,7 +2609,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261130T163000Z
 DTEND:20261130T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010452-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2612,7 +2617,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
  e cette séance : \n<span  style="color: Silver\;"><span style="font-weigh
  t:normal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -2626,7 +2631,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261123T141500Z
 DTEND:20261123T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010474-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2639,7 +2644,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -2658,7 +2663,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261130T141500Z
 DTEND:20261130T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010474-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2666,7 +2671,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
  e cette séance : \n<span  style="color: Silver\;"><span style="font-weigh
  t:normal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -2680,7 +2685,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261026T151500Z
 DTEND:20261026T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010480-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Soutenance\nMatière : Prototypage électr
@@ -2712,7 +2717,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261028T094500Z
 DTEND:20261028T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010483-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Soutenance\nMatière : Prototypage électr
@@ -2744,7 +2749,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261026T163000Z
 DTEND:20261026T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010488-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Soutenance\nMatière : Prototypage électr
@@ -2776,7 +2781,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261123T163000Z
 DTEND:20261123T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010493-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2789,7 +2794,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -2808,7 +2813,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261125T141500Z
 DTEND:20261125T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010496-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : soutenance\nMatière : Prototypage électr
@@ -2821,7 +2826,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : soutenance\nMatière : Prototypage électr
  el en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr>
  </div><div class="hp"><div style="font-family: arial\,helvetica\,sans-seri
  f\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM324 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Mémo : soutenance<br/>Matière : Prototypage
@@ -2840,7 +2845,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261005T084500Z
 DTEND:20261005T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010507-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Mathématiques 5\nEnsei
@@ -2870,7 +2875,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261125T163000Z
 DTEND:20261125T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010508-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : soutenance\nMatière : Prototypage électr
@@ -2883,7 +2888,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : soutenance\nMatière : Prototypage électr
  el en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr>
  </div><div class="hp"><div style="font-family: arial\,helvetica\,sans-seri
  f\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM324 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Mémo : soutenance<br/>Matière : Prototypage
@@ -2902,7 +2907,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260928T120000Z
 DTEND:20260928T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010510-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2915,7 +2920,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -2934,7 +2939,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261005T120000Z
 DTEND:20261005T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010510-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2947,7 +2952,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM312 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -2966,7 +2971,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261116T130000Z
 DTEND:20261116T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010510-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -2979,7 +2984,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM218 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -2998,7 +3003,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261130T130000Z
 DTEND:20261130T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010510-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -3006,7 +3011,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  lectronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu pédagogique d
  e cette séance : \n<span  style="color: Silver\;"><span style="font-weigh
  t:normal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -3020,7 +3025,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261214T130000Z
 DTEND:20261214T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010510-20-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -3028,7 +3033,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  oratoire Electronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu péd
  agogique de cette séance : \n<span  style="color: Silver\;"><span style="
  font-weight:normal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM218 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -3042,7 +3047,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261127T141500Z
 DTEND:20261127T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010512-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -3055,7 +3060,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  5</div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
  \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
  </div>\n
-LAST-MODIFIED:20261112T143016Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle P442 - EIFFEL 2 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle P442 - EIFFEL 2 (M
@@ -3072,7 +3077,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261125T130000Z
 DTEND:20261125T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010517-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : soutenance\nMatière : Prototypage électr
@@ -3085,7 +3090,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : soutenance\nMatière : Prototypage électr
  el en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr>
  </div><div class="hp"><div style="font-family: arial\,helvetica\,sans-seri
  f\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM324 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Mémo : soutenance<br/>Matière : Prototypage
@@ -3104,7 +3109,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261210T073000Z
 DTEND:20261210T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010524-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -3121,7 +3126,7 @@ BEGIN:VEVENT
 SUMMARY:Soutien Prototypage élec
 DTSTART:20261119T163000Z
 DTEND:20261119T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010535-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Soutien Prototypage élec\nEnseignant :
@@ -3139,7 +3144,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Soutien Prototypage élec\nEnseignant :
  SoWeSign avec le code établissement 7705</div><hr></div><div class="hp"><
  div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">
  Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Soutien Prototypage élec<br/>Ense
  ignant : M. LE GALL ALAIN<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01<br/>Type : 
  CRS-TD-CV<br/><br/>Contenu pédagogique de cette séance : <br/><span styl
@@ -3160,7 +3165,7 @@ BEGIN:VEVENT
 SUMMARY:Soutien Prototypage élec
 DTSTART:20261126T173000Z
 DTEND:20261126T193000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010547-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Soutien Prototypage élec\nEnseignant :
@@ -3172,7 +3177,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Soutien Prototypage élec\nEnseignant :
  ><br><br>SoWeSign avec le code établissement 7705</div><hr></div><div cla
  ss="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-size:
   13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Soutien Prototypage élec<br/>Ense
  ignant : M. LE GALL ALAIN<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD-CV<br/><
  br/>Contenu pédagogique de cette séance : <br/><span style="font-weight:
@@ -3188,13 +3193,13 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261205T080000Z
 DTEND:20261205T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010913-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Cloisons ouvertes\nMatière : Algorithmiqu
  e et Programmation Orienté Objet\nTD : Ing3 Gr DU01\, Ing3 Gr SL01\nSalle
  s : Salle EM219 - EIFFEL 1\, Salle EM225 - EIFFEL 1\nType : EVALUATION\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM219 - EIFFEL 1\, Salle EM225 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Mémo : Cloisons ouvertes<br/>Matière : Algo
  rithmique et Programmation Orienté Objet<br/>TD : Ing3 Gr DU01\, Ing3 Gr 
@@ -3205,7 +3210,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261007T131500Z
 DTEND:20261007T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010929-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3218,7 +3223,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle SC217 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -3235,7 +3240,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261104T141500Z
 DTEND:20261104T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010929-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3248,7 +3253,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  oWeSign avec le code établissement 7705</div><hr></div><div class="hp"><d
  iv style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">S
  vp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM114 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -3266,7 +3271,7 @@ BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261016T131500Z
 DTEND:20261016T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010945-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
@@ -3279,7 +3284,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant :
  t 7705</div><hr></div><div class="hp"><div style="font-family: arial\,helv
  etica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...<
  /div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4
 X-ALT-DESC;FMTTYPE=text/html:Matière : Travailler en entreprise<br/>Ensei
  gnant : Mme MAILLARD VAITE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G015 - 
@@ -3296,7 +3301,7 @@ BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261106T141500Z
 DTEND:20261106T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010945-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant : 
@@ -3309,7 +3314,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Travailler en entreprise\nEnseignant :
  t 7705</div><hr></div><div class="hp"><div style="font-family: arial\,helv
  etica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...<
  /div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle SC212 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Travailler en entreprise<br/>Ensei
  gnant : Mme MAILLARD VAITE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC212 -
@@ -3326,7 +3331,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261204T141500Z
 DTEND:20261204T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2010996-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : soutenances\nMatière : Algorithmique et P
@@ -3335,7 +3340,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : soutenances\nMatière : Algorithmique et P
  up)\nType : CRS-TP\n\nContenu pédagogique de cette séance : \n<span  sty
  le="color: Silver\;"><span style="font-weight:normal\; font-style:italic\;
  ">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM324 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Mémo : soutenances<br/>Matière : Algorithmi
@@ -3349,7 +3354,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261102T141500Z
 DTEND:20261102T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011011-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -3362,7 +3367,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  code établissement 7705</div><hr></div><div class="hp"><div style="font-f
  amily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos
   documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle SC014 (MAC1 Prod & Post Prod) - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC014 (MAC
@@ -3379,7 +3384,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261002T120000Z
 DTEND:20261002T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011019-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3392,7 +3397,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM323 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -3409,7 +3414,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261030T130000Z
 DTEND:20261030T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011019-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3423,7 +3428,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,sans
  -serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>
  \n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
@@ -3442,7 +3447,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261113T130000Z
 DTEND:20261113T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011019-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3455,7 +3460,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  c le code établissement 7705</div><hr></div><div class="hp"><div style="f
  ont-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoute
  z vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -3472,7 +3477,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260914T153000Z
 DTEND:20260914T163000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011037-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -3502,7 +3507,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260914T141500Z
 DTEND:20260914T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011042-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -3532,7 +3537,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261127T151500Z
 DTEND:20261127T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011128-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3545,7 +3550,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T161959Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM220 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -3562,7 +3567,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261204T094500Z
 DTEND:20261204T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011391-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Soutenance\nMatière : Algorithmique et Pr
@@ -3570,7 +3575,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : Soutenance\nMatière : Algorithmique et Pr
  Gr DU01\nType : CRS-TP\n\nContenu pédagogique de cette séance : \n<span 
   style="color: Silver\;"><span style="font-weight:normal\; font-style:ital
  ic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 X-ALT-DESC;FMTTYPE=text/html:Mémo : Soutenance<br/>Matière : Algorithmiq
  ue et Programmation Orienté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<
  br/>TD : Ing3 Gr DU01<br/>Type : CRS-TP<br/><br/>Contenu pédagogique de c
@@ -3581,7 +3586,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261127T163000Z
 DTEND:20261127T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011392-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3594,7 +3599,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T161959Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM220 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -3611,7 +3616,7 @@ BEGIN:VEVENT
 SUMMARY:Ethique de l'ingénieur
 DTSTART:20261207T141500Z
 DTEND:20261207T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011393-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Ethique de l'ingénieur\nEnseignant : M
@@ -3629,7 +3634,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260921T120000Z
 DTEND:20260921T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011394-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3659,7 +3664,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261204T130000Z
 DTEND:20261204T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011413-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : soutenances\nMatière : Algorithmique et P
@@ -3668,7 +3673,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : soutenances\nMatière : Algorithmique et P
  up)\nType : CRS-TP\n\nContenu pédagogique de cette séance : \n<span  sty
  le="color: Silver\;"><span style="font-weight:normal\; font-style:italic\;
  ">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM324 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Mémo : soutenances<br/>Matière : Algorithmi
@@ -3682,7 +3687,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260930T141500Z
 DTEND:20260930T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011442-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3712,7 +3717,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260930T153000Z
 DTEND:20260930T163000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011443-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3742,7 +3747,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261215T120000Z
 DTEND:20261215T133000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011791-20-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Amphis fermés/salles ouvertes\nMatière :
@@ -3766,7 +3771,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261106T163000Z
 DTEND:20261106T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011829-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -3779,7 +3784,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
  t 7705</div><hr></div><div class="hp"><div style="font-family: arial\,helv
  etica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...<
  /div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle SC109 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de gestion<br/>Enseignant : 
  M. TURZI FRANCESCO<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC109 - EIFFEL 
@@ -3796,7 +3801,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260918T084500Z
 DTEND:20260918T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011861-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3826,7 +3831,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260925T084500Z
 DTEND:20260925T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011861-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3859,7 +3864,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261002T084500Z
 DTEND:20261002T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011861-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3889,7 +3894,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261002T131500Z
 DTEND:20261002T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011870-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3902,7 +3907,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM323 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -3919,7 +3924,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261030T141500Z
 DTEND:20261030T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011870-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3933,7 +3938,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,sans
  -serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>
  \n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
@@ -3952,7 +3957,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261113T141500Z
 DTEND:20261113T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011870-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -3965,7 +3970,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  c le code établissement 7705</div><hr></div><div class="hp"><div style="f
  ont-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoute
  z vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -3982,7 +3987,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260914T120000Z
 DTEND:20260914T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011898-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Algorithmique et Progra
@@ -4013,7 +4018,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260914T131500Z
 DTEND:20260914T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011900-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Algorithmique et Progra
@@ -4044,7 +4049,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261118T163000Z
 DTEND:20261118T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2092869-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -4057,7 +4062,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
  /div><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,
  sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></
  div>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 LOCATION;LANGUAGE=fr:Salle EM112 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
   M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM112 - EIFFEL
@@ -4074,7 +4079,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261106T094500Z
 DTEND:20261106T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011936-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -4087,7 +4092,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
  établissement 7705</div><hr></div><div class="hp"><div style="font-family
  : arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos docu
  ments ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle SC008 (Atelier) - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
   M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC008 (Atelier
@@ -4104,7 +4109,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261117T094500Z
 DTEND:20261117T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2011955-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -4117,7 +4122,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
  ablissement 7705</div><hr></div><div class="hp"><div style="font-family: a
  rial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documen
  ts ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle P310 - (Laboratoire) E2 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
   M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Salle : Salle P310 - (Labora
@@ -4134,7 +4139,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261124T163000Z
 DTEND:20261124T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012008-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -4147,7 +4152,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
  /div><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,
  sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></
  div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle SC004 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
   M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC004 - EIFFEL
@@ -4164,7 +4169,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261207T151500Z
 DTEND:20261207T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012055-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -4182,7 +4187,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261207T163000Z
 DTEND:20261207T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012077-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -4200,7 +4205,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261208T151500Z
 DTEND:20261208T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012085-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -4218,14 +4223,14 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261130T073000Z
 DTEND:20261130T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012092-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
  ANI ROOZBEH\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique de c
  ette séance : \n<span  style="color: Silver\;"><span style="font-weight:n
  ormal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
   M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>Conte
  nu pédagogique de cette séance : <br/><span  style="color: Silver\;"><sp
@@ -4236,14 +4241,14 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261207T073000Z
 DTEND:20261207T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012092-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
  ANI ROOZBEH\nTD : Ing3 Gr DU01\nType : CRS-TD\n\nContenu pédagogique de c
  ette séance : \n<span  style="color: Silver\;"><span style="font-weight:n
  ormal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
   M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD<br/><br/>Conte
  nu pédagogique de cette séance : <br/><span  style="color: Silver\;"><sp
@@ -4254,7 +4259,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261208T163000Z
 DTEND:20261208T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012095-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -4272,7 +4277,7 @@ BEGIN:VEVENT
 SUMMARY:Versioning ING3
 DTSTART:20261016T141500Z
 DTEND:20261016T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012522-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
@@ -4301,7 +4306,7 @@ BEGIN:VEVENT
 SUMMARY:Versioning ING3
 DTSTART:20261012T141500Z
 DTEND:20261012T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012523-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
@@ -4331,7 +4336,7 @@ BEGIN:VEVENT
 SUMMARY:Versioning ING3
 DTSTART:20261012T153000Z
 DTEND:20261012T163000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012524-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
@@ -4361,7 +4366,7 @@ BEGIN:VEVENT
 SUMMARY:Versioning ING3
 DTSTART:20261016T153000Z
 DTEND:20261016T163000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012525-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Versioning ING3\nEnseignant : MARIE ALE
@@ -4390,7 +4395,7 @@ BEGIN:VEVENT
 SUMMARY:Méthodologie de projet
 DTSTART:20261013T153000Z
 DTEND:20261013T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012559-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : Salle pour étudiants - intervenant à dis
@@ -4433,7 +4438,7 @@ BEGIN:VEVENT
 SUMMARY:Méthodologie de projet
 DTSTART:20260928T141500Z
 DTEND:20260928T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012561-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : salle pour étudiants - intervenant à dis
@@ -4476,7 +4481,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20260925T131500Z
 DTEND:20260925T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012654-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -4507,7 +4512,7 @@ BEGIN:VEVENT
 SUMMARY:Prise de Parole
 DTSTART:20260925T153000Z
 DTEND:20260925T163000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012656-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prise de Parole\nEnseignant : M. BEDIN 
@@ -4537,7 +4542,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261014T063000Z
 DTEND:20261014T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2012678-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -4569,7 +4574,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261110T163000Z
 DTEND:20261110T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2013162-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -4582,7 +4587,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
  ign avec le code établissement 7705</div><hr></div><div class="hp"><div s
  tyle="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\,
   ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
@@ -4600,7 +4605,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261110T151500Z
 DTEND:20261110T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2013163-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -4613,7 +4618,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
  ign avec le code établissement 7705</div><hr></div><div class="hp"><div s
  tyle="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\,
   ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
@@ -4631,7 +4636,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261118T151500Z
 DTEND:20261118T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2013168-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -4644,7 +4649,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
  /div><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,
  sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></
  div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM112 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
   M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM112 - EIFFEL
@@ -4661,7 +4666,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261104T163000Z
 DTEND:20261104T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2013195-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -4674,7 +4679,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  oWeSign avec le code établissement 7705</div><hr></div><div class="hp"><d
  iv style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">S
  vp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM114 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -4692,7 +4697,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261013T063000Z
 DTEND:20261013T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2013267-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -4724,7 +4729,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260928T131500Z
 DTEND:20260928T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2013280-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -4737,7 +4742,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -4756,7 +4761,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261005T131500Z
 DTEND:20261005T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2013280-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -4769,7 +4774,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM312 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -4788,7 +4793,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261116T141500Z
 DTEND:20261116T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2013280-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -4801,7 +4806,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM218 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -4820,7 +4825,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261214T141500Z
 DTEND:20261214T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2013280-20-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -4828,7 +4833,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  oratoire Electronique) - EIFFEL 1 (Meet-up)\nType : CRS-TP\n\nContenu péd
  agogique de cette séance : \n<span  style="color: Silver\;"><span style="
  font-weight:normal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 LOCATION;LANGUAGE=fr:Salle EM218 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -4842,14 +4847,14 @@ BEGIN:VEVENT
 SUMMARY:Actualites de la Géopolitique
 DTSTART:20261128T141500Z
 DTEND:20261128T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2019810-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Actualites de la Géopolitique\nTD : In
  g3 Gr DU01\nType : ELEARNING\n\nContenu pédagogique de cette séance : \n
  <span  style="color: Silver\;"><span style="font-weight:normal\; font-styl
  e:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085206Z
+LAST-MODIFIED:20261113T103033Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Actualites de la Géopolitique<br/
  >TD : Ing3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de c
  ette séance : <br/><span  style="color: Silver\;"><span style="font-weigh
@@ -4859,7 +4864,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260923T084500Z
 DTEND:20260923T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2023423-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -4872,7 +4877,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle EM218 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -4891,7 +4896,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260930T084500Z
 DTEND:20260930T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2023423-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -4904,7 +4909,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -4923,7 +4928,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261104T094500Z
 DTEND:20261104T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2023423-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -4936,7 +4941,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle EM216 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -4955,7 +4960,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261118T094500Z
 DTEND:20261118T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2023423-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -4968,7 +4973,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  br>SoWeSign avec le code établissement 7705</div><hr></div><div class="hp
  "><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px
  \;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
@@ -4987,7 +4992,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260925T063000Z
 DTEND:20260925T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2023424-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -5000,7 +5005,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  iv><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,sa
  ns-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></di
  v>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle EM126 - E1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM126 - E1
@@ -5017,7 +5022,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261113T073000Z
 DTEND:20261113T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2023424-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -5030,7 +5035,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  705</div><hr></div><div class="hp"><div style="font-family: arial\,helveti
  ca\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</di
  v></div>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle EM322 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM322 - EI
@@ -5047,7 +5052,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261204T073000Z
 DTEND:20261204T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2023424-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -5055,7 +5060,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  ronique) - EIFFEL 1 (Meet-up)\nType : CRS-TD\n\nContenu pédagogique de ce
  tte séance : \n<span  style="color: Silver\;"><span style="font-weight:no
  rmal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle EM222 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
@@ -5069,7 +5074,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260923T063000Z
 DTEND:20260923T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2023434-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -5081,7 +5086,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  ppel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><h
  r></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-se
  rif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle EM319 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM319 - EIFFEL 1<b
@@ -5098,7 +5103,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260930T063000Z
 DTEND:20260930T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2023434-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -5110,7 +5115,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  ppel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><h
  r></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-se
  rif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle EM220 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM220 - EIFFEL 1<b
@@ -5127,7 +5132,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261104T073000Z
 DTEND:20261104T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2023434-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -5140,7 +5145,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  5</div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
  \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
  </div>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle G019 - EIFFEL 4 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G019 - EIFFEL 4 (M
@@ -5157,7 +5162,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261114T094500Z
 DTEND:20261114T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2031678-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -5169,7 +5174,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
  sement 7705</div><hr></div><div class="hp"><div style="font-family: arial
  \,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents i
  ci...</div></div>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
   DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
  : <br/><span style="font-weight:bold\;">contenu</span><br /><div class="te
@@ -5184,14 +5189,14 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261128T094500Z
 DTEND:20261128T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2031678-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
  ype : ELEARNING\n\nContenu pédagogique de cette séance : \n<span  style=
  "color: Silver\;"><span style="font-weight:normal\; font-style:italic\;">S
  ans titre</span></span>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
   DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
  : <br/><span  style="color: Silver\;"><span style="font-weight:normal\; fo
@@ -5201,7 +5206,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261012T084500Z
 DTEND:20261012T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2039504-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -5214,7 +5219,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  vec le code établissement 7705</div><hr></div><div class="hp"><div style=
  "font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajou
  tez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085208Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle C-1.13 - EIFFEL 3
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -5231,7 +5236,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261102T094500Z
 DTEND:20261102T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2039504-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -5244,7 +5249,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  e</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div><div
   class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-s
  ize: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085208Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle SC015 (MAC2 Prod & Post Prod) - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -5262,7 +5267,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261026T073000Z
 DTEND:20261026T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2039511-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -5275,7 +5280,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085208Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle SC215 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -5292,7 +5297,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261109T073000Z
 DTEND:20261109T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2039511-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -5305,7 +5310,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085208Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle SC210 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -5322,7 +5327,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261116T073000Z
 DTEND:20261116T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2039511-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -5335,7 +5340,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085208Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle SC004 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -5352,67 +5357,67 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261113T151500Z
 DTEND:20261113T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2039512-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
- ANI ROOZBEH\nTD : Ing3 Gr DU01\nSalles : Salle G015 - EIFFEL 4\, Salle SC2
- 14 - EIFFEL 1\nType : CRS-TD\n\nContenu pédagogique de cette séance : \n
- <span style="font-weight:bold\;">contenu</span><br /><div class="teams"></
- div><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif
- \; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https://app
- .sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le 
- code établissement 7705</div><hr></div><div class="hp"><div style="font-f
- amily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos
-  documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085208Z
-LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4\, Salle SC214 - EIFFEL 1
+ ANI ROOZBEH\nTD : Ing3 Gr DU01\nSalle : Salle SC214 - EIFFEL 1\nType : CRS
+ -TD\n\nContenu pédagogique de cette séance : \n<span style="font-weight:
+ bold\;">contenu</span><br /><div class="teams"></div><div class="sws"><div
+  style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a 
+ title="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_b
+ lank">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705<
+ /div><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,
+ sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></
+ div>\n
+LAST-MODIFIED:20261113T134743Z
+LOCATION;LANGUAGE=fr:Salle SC214 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
-  M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Salles : Salle G015 - EIFFEL
-  4\, Salle SC214 - EIFFEL 1<br/>Type : CRS-TD<br/><br/>Contenu pédagogiqu
- e de cette séance : <br/><span style="font-weight:bold\;">contenu</span><
- br /><div class="teams"></div><div class="sws"><div style="font-family: ar
- ial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="n
- oopener" href="https://app.sowesign.com" target="_blank">Appel en ligne</a
- ><br><br>SoWeSign avec le code établissement 7705</div><hr></div><div cla
- ss="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-size:
-  13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+  M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC214 - EIFFEL
+  1<br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cette séance : <br/
+ ><span style="font-weight:bold\;">contenu</span><br /><div class="teams"><
+ /div><div class="sws"><div style="font-family: arial\,helvetica\,sans-seri
+ f\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://ap
+ p.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le
+  code établissement 7705</div><hr></div><div class="hp"><div style="font-
+ family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vo
+ s documents ici...</div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261113T163000Z
 DTEND:20261113T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2039513-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
- ANI ROOZBEH\nTD : Ing3 Gr DU01\nSalles : Salle G015 - EIFFEL 4\, Salle SC2
- 14 - EIFFEL 1\nType : CRS-TD\n\nContenu pédagogique de cette séance : \n
- <span style="font-weight:bold\;">contenu</span><br /><div class="teams"></
- div><div class="sws"><div style="font-family: arial\,helvetica\,sans-serif
- \; font-size: 13px\;"><a title="SoWeSign" rel="noopener" href="https://app
- .sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le 
- code établissement 7705</div><hr></div><div class="hp"><div style="font-f
- amily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos
-  documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085208Z
-LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4\, Salle SC214 - EIFFEL 1
+ ANI ROOZBEH\nTD : Ing3 Gr DU01\nSalle : Salle SC214 - EIFFEL 1\nType : CRS
+ -TD\n\nContenu pédagogique de cette séance : \n<span style="font-weight:
+ bold\;">contenu</span><br /><div class="teams"></div><div class="sws"><div
+  style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;"><a 
+ title="SoWeSign" rel="noopener" href="https://app.sowesign.com" target="_b
+ lank">Appel en ligne</a><br><br>SoWeSign avec le code établissement 7705<
+ /div><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,
+ sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></
+ div>\n
+LAST-MODIFIED:20261113T134743Z
+LOCATION;LANGUAGE=fr:Salle SC214 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
-  M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Salles : Salle G015 - EIFFEL
-  4\, Salle SC214 - EIFFEL 1<br/>Type : CRS-TD<br/><br/>Contenu pédagogiqu
- e de cette séance : <br/><span style="font-weight:bold\;">contenu</span><
- br /><div class="teams"></div><div class="sws"><div style="font-family: ar
- ial\,helvetica\,sans-serif\; font-size: 13pt\;"><a title="SoWeSign" rel="n
- oopener" href="https://app.sowesign.com" target="_blank">Appel en ligne</a
- ><br><br>SoWeSign avec le code établissement 7705</div><hr></div><div cla
- ss="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-size:
-  13pt\;">Svp\, ajoutez vos documents ici...</div></div><br/>
+  M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC214 - EIFFEL
+  1<br/>Type : CRS-TD<br/><br/>Contenu pédagogique de cette séance : <br/
+ ><span style="font-weight:bold\;">contenu</span><br /><div class="teams"><
+ /div><div class="sws"><div style="font-family: arial\,helvetica\,sans-seri
+ f\; font-size: 13pt\;"><a title="SoWeSign" rel="noopener" href="https://ap
+ p.sowesign.com" target="_blank">Appel en ligne</a><br><br>SoWeSign avec le
+  code établissement 7705</div><hr></div><div class="hp"><div style="font-
+ family: arial\,helvetica\,sans-serif\; font-size: 13pt\;">Svp\, ajoutez vo
+ s documents ici...</div></div><br/>
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261204T163000Z
 DTEND:20261204T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2039514-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : soutenances\nMatière : Algorithmique et P
@@ -5421,7 +5426,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : soutenances\nMatière : Algorithmique et P
  up)\nType : CRS-TP\n\nContenu pédagogique de cette séance : \n<span  sty
  le="color: Silver\;"><span style="font-weight:normal\; font-style:italic\;
  ">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085208Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle EM324 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Mémo : soutenances<br/>Matière : Algorithmi
@@ -5435,7 +5440,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261009T084500Z
 DTEND:20261009T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2039515-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -5466,7 +5471,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260921T131500Z
 DTEND:20260921T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2040033-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -5496,7 +5501,7 @@ BEGIN:VEVENT
 SUMMARY:Méthodologie de projet
 DTSTART:20261120T163000Z
 DTEND:20261120T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2040092-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Méthodologie de projet\nEnseignant : M
@@ -5514,7 +5519,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Méthodologie de projet\nEnseignant : M
   code établissement 7705</div><hr></div><div class="hp"><div style="font-
  family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vo
  s documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085208Z
+LAST-MODIFIED:20261113T103034Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Méthodologie de projet<br/>Enseig
  nant : Mme MORELL ELODIE<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD-CV<br/><b
  r/>Contenu pédagogique de cette séance : <br/><span style="font-weight:b
@@ -5535,7 +5540,7 @@ BEGIN:VEVENT
 SUMMARY:Méthodologie de projet
 DTSTART:20261116T163000Z
 DTEND:20261116T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2058307-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Méthodologie de projet\nEnseignant : M
@@ -5553,7 +5558,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Méthodologie de projet\nEnseignant : M
  e établissement 7705</div><hr></div><div class="hp"><div style="font-fami
  ly: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos do
  cuments ici...</div></div>\n
-LAST-MODIFIED:20261110T085209Z
+LAST-MODIFIED:20261113T103035Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Méthodologie de projet<br/>Enseig
  nant : Mme SUEUR LIO<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD-CV<br/><br/>C
  ontenu pédagogique de cette séance : <br/><span style="font-weight:bold
@@ -5574,7 +5579,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261007T153000Z
 DTEND:20261007T163000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060451-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -5604,7 +5609,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261029T073000Z
 DTEND:20261029T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060452-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -5634,7 +5639,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261103T094500Z
 DTEND:20261103T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060453-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -5647,7 +5652,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
  v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
  s-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div
  >\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle EM124 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM124 - EIFFEL 1<
@@ -5664,7 +5669,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260930T131500Z
 DTEND:20260930T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060454-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -5694,7 +5699,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260930T120000Z
 DTEND:20260930T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060455-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -5724,7 +5729,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261014T084500Z
 DTEND:20261014T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060456-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -5754,7 +5759,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261125T094500Z
 DTEND:20261125T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060457-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -5767,7 +5772,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T161919Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle EM124 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -5784,7 +5789,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261113T094500Z
 DTEND:20261113T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060463-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -5797,7 +5802,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
   avec le code établissement 7705</div><hr></div><div class="hp"><div styl
  e="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, aj
  outez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle EM324 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
@@ -5815,7 +5820,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261028T163000Z
 DTEND:20261028T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060472-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -5845,7 +5850,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261028T151500Z
 DTEND:20261028T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060473-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -5875,7 +5880,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260929T084500Z
 DTEND:20260929T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060483-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -5905,7 +5910,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261006T084500Z
 DTEND:20261006T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060483-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -5934,7 +5939,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261117T073000Z
 DTEND:20261117T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060499-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -5947,7 +5952,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
  v><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,san
  s-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div
  >\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle EM316 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  Mme AJAGJAL SANA<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM316 - EIFFEL 1<
@@ -5964,7 +5969,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261124T073000Z
 DTEND:20261124T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060502-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -5977,7 +5982,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
  établissement 7705</div><hr></div><div class="hp"><div style="font-family
  : arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos docu
  ments ici...</div></div>\n
-LAST-MODIFIED:20261113T073048Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle SC007 (Atelier) - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
   M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC007 (Atelier
@@ -5994,7 +5999,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de gestion
 DTSTART:20261007T063000Z
 DTEND:20261007T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060513-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de gestion\nEnseignant : M. TURZI
@@ -6024,7 +6029,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261006T063000Z
 DTEND:20261006T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060516-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -6053,7 +6058,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261208T141500Z
 DTEND:20261208T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060519-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -6073,7 +6078,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261208T130000Z
 DTEND:20261208T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2060520-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : Mme AJAG
@@ -6093,7 +6098,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261012T120000Z
 DTEND:20261012T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2063743-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -6123,7 +6128,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261012T131500Z
 DTEND:20261012T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2063744-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -6153,7 +6158,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261127T094500Z
 DTEND:20261127T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2068565-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -6166,7 +6171,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  05</div><hr></div><div class="hp"><div style="font-family: arial\,helvetic
  a\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div
  ></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle G015 - EIFFEL 4
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G015 - EIF
@@ -6183,7 +6188,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261211T094500Z
 DTEND:20261211T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2068565-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -6191,7 +6196,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
   CRS-TD\n\nContenu pédagogique de cette séance : \n<span  style="color: 
  Silver\;"><span style="font-weight:normal\; font-style:italic\;">Sans titr
  e</span></span>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle SC217 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC217 - EI
@@ -6203,7 +6208,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260923T120000Z
 DTEND:20260923T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2068566-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -6217,7 +6222,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,sans
  -serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>
  \n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
@@ -6236,7 +6241,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261007T120000Z
 DTEND:20261007T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2068566-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -6249,7 +6254,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle SC217 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -6266,7 +6271,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261014T120000Z
 DTEND:20261014T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2068566-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -6279,7 +6284,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  oWeSign avec le code établissement 7705</div><hr></div><div class="hp"><d
  iv style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">S
  vp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle EM226 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -6297,7 +6302,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261104T130000Z
 DTEND:20261104T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2068566-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -6310,7 +6315,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  oWeSign avec le code établissement 7705</div><hr></div><div class="hp"><d
  iv style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">S
  vp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle EM114 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -6328,7 +6333,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261118T130000Z
 DTEND:20261118T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2068566-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -6341,7 +6346,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle SC214 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -6358,7 +6363,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261028T141500Z
 DTEND:20261028T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2068570-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -6388,7 +6393,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261027T073000Z
 DTEND:20261027T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2070732-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -6418,7 +6423,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260928T084500Z
 DTEND:20260928T104500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2070733-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -6431,7 +6436,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  </div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
  \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
  </div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle EM316 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM316 - EI
@@ -6448,7 +6453,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261109T094500Z
 DTEND:20261109T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2070733-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -6461,7 +6466,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  </div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
  \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
  </div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle EM316 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle EM316 - EI
@@ -6478,7 +6483,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261116T094500Z
 DTEND:20261116T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2070733-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -6491,7 +6496,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  ment 7705</div><hr></div><div class="hp"><div style="font-family: arial\,h
  elvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici.
  ..</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 LOCATION;LANGUAGE=fr:Salle G011 - EIFFEL 4 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G011 - EIF
@@ -6508,14 +6513,14 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261207T094500Z
 DTEND:20261207T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2070733-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
  AMBES CHRISTINE\nTD : Ing3 Gr DU01\nType : CRS\n\nContenu pédagogique de 
  cette séance : \n<span  style="color: Silver\;"><span style="font-weight:
  normal\; font-style:italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Electromagnétisme<br/>Enseignant 
  : Mme CRAMBES CHRISTINE<br/>TD : Ing3 Gr DU01<br/>Type : CRS<br/><br/>Cont
  enu pédagogique de cette séance : <br/><span  style="color: Silver\;"><s
@@ -6526,7 +6531,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261029T141500Z
 DTEND:20261029T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2074527-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -6538,7 +6543,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
  sement 7705</div><hr></div><div class="hp"><div style="font-family: arial
  \,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents i
  ci...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
   DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
  : <br/><span style="font-weight:bold\;">contenu</span><br /><div class="te
@@ -6553,7 +6558,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261105T141500Z
 DTEND:20261105T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2074527-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -6565,7 +6570,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
  sement 7705</div><hr></div><div class="hp"><div style="font-family: arial
  \,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents i
  ci...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103035Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
   DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
  : <br/><span style="font-weight:bold\;">contenu</span><br /><div class="te
@@ -6580,7 +6585,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260929T063000Z
 DTEND:20260929T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2075354-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -6610,7 +6615,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260914T063000Z
 DTEND:20260914T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2076793-7-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -6622,7 +6627,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  ligne</a><br><br>SoWeSign avec le code établissement 7705</div><hr></div>
  <div class="hp"><div style="font-family: arial\,helvetica\,sans-serif\; fo
  nt-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103036Z
 LOCATION;LANGUAGE=fr:Salle G017- E4
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle G017- E4<br/>Type 
@@ -6639,7 +6644,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260921T063000Z
 DTEND:20260921T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2076793-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -6651,7 +6656,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  ppel en ligne</a><br><br>SoWeSign avec le code établissement 7705</div><h
  r></div><div class="hp"><div style="font-family: arial\,helvetica\,sans-se
  rif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103036Z
 LOCATION;LANGUAGE=fr:Salle SC210 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC210 - EIFFEL 1<b
@@ -6668,7 +6673,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20260928T063000Z
 DTEND:20260928T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2076793-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -6681,7 +6686,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  5</div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
  \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
  </div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103036Z
 LOCATION;LANGUAGE=fr:Salle P416 - EIFFEL 2 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle P416 - EIFFEL 2 (M
@@ -6698,7 +6703,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261012T063000Z
 DTEND:20261012T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2076793-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -6711,7 +6716,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  5</div><hr></div><div class="hp"><div style="font-family: arial\,helvetica
  \,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div>
  </div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103036Z
 LOCATION;LANGUAGE=fr:Salle P438 - EIFFEL 2 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle P438 - EIFFEL 2 (M
@@ -6728,7 +6733,7 @@ BEGIN:VEVENT
 SUMMARY:Mathématiques 5
 DTSTART:20261102T073000Z
 DTEND:20261102T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2076793-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
@@ -6741,7 +6746,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Mathématiques 5\nEnseignant : M. YOUNE
  ablissement 7705</div><hr></div><div class="hp"><div style="font-family: a
  rial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documen
  ts ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103036Z
 LOCATION;LANGUAGE=fr:Salle SC014 (MAC1 Prod & Post Prod) - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Mathématiques 5<br/>Enseignant : 
  M. YOUNES RAFIC<br/>TD : Ing3 Gr DU01<br/>Salle : Salle SC014 (MAC1 Prod &
@@ -6758,7 +6763,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20260923T131500Z
 DTEND:20260923T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2078506-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -6772,7 +6777,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ><hr></div><div class="hp"><div style="font-family: arial\,helvetica\,sans
  -serif\; font-size: 13px\;">Svp\, ajoutez vos documents ici...</div></div>
  \n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103036Z
 LOCATION;LANGUAGE=fr:Salle EM224 (Laboratoire Electronique) - EIFFEL 1 (Me
  et-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
@@ -6791,7 +6796,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261014T131500Z
 DTEND:20261014T141500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2078506-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -6804,7 +6809,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  oWeSign avec le code établissement 7705</div><hr></div><div class="hp"><d
  iv style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">S
  vp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103036Z
 LOCATION;LANGUAGE=fr:Salle EM226 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -6822,7 +6827,7 @@ BEGIN:VEVENT
 SUMMARY:Algorithmique et Programmation Orienté Objet
 DTSTART:20261118T141500Z
 DTEND:20261118T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2078506-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
@@ -6835,7 +6840,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Algorithmique et Programmation Orienté
  ec le code établissement 7705</div><hr></div><div class="hp"><div style="
  font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajout
  ez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103036Z
 LOCATION;LANGUAGE=fr:Salle SC214 - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Algorithmique et Programmation Ori
  enté Objet<br/>Enseignant : M. SEGADO JEAN PIERRE<br/>TD : Ing3 Gr DU01<b
@@ -6852,7 +6857,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261002T153000Z
 DTEND:20261002T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2078512-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -6879,7 +6884,7 @@ BEGIN:VEVENT
 SUMMARY:Travailler en entreprise
 DTSTART:20261118T073000Z
 DTEND:20261118T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2079673-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : ferme\nMatière : Travailler en entreprise
@@ -6892,7 +6897,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : ferme\nMatière : Travailler en entreprise
  vec le code établissement 7705</div><hr></div><div class="hp"><div style=
  "font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajou
  tez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103036Z
 LOCATION;LANGUAGE=fr:Salle EM227 - EIFFEL 1 (Meet-up)
 X-ALT-DESC;FMTTYPE=text/html:Mémo : ferme<br/>Matière : Travailler en en
  treprise<br/>Enseignant : Mme MAILLARD VAITE<br/>TD : Ing3 Gr DU01<br/>Sal
@@ -6909,7 +6914,7 @@ BEGIN:VEVENT
 SUMMARY:Développement Durable
 DTSTART:20261009T153000Z
 DTEND:20261009T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2080126-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
@@ -6936,7 +6941,7 @@ BEGIN:VEVENT
 SUMMARY:Développement Durable
 DTSTART:20261106T073000Z
 DTEND:20261106T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2080130-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
@@ -6948,7 +6953,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
  ablissement 7705</div><hr></div><div class="hp"><div style="font-family: a
  rial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documen
  ts ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Développement Durable<br/>TD : In
  g3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette sé
  ance : <br/><span style="font-weight:bold\;">contenu</span><br /><div clas
@@ -6963,7 +6968,7 @@ BEGIN:VEVENT
 SUMMARY:Développement Durable
 DTSTART:20261112T163000Z
 DTEND:20261112T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2080131-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
@@ -6975,7 +6980,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
  ablissement 7705</div><hr></div><div class="hp"><div style="font-family: a
  rial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documen
  ts ici...</div></div>\n
-LAST-MODIFIED:20261110T085210Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Développement Durable<br/>TD : In
  g3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette sé
  ance : <br/><span style="font-weight:bold\;">contenu</span><br /><div clas
@@ -6990,7 +6995,7 @@ BEGIN:VEVENT
 SUMMARY:Développement Durable
 DTSTART:20261014T153000Z
 DTEND:20261014T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2080133-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
@@ -7017,7 +7022,7 @@ BEGIN:VEVENT
 SUMMARY:Présentation Cursus
 DTSTART:20261013T120000Z
 DTEND:20261013T130000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2081409-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Présentation Cursus\nE
@@ -7048,7 +7053,7 @@ BEGIN:VEVENT
 SUMMARY:Développement Durable
 DTSTART:20261027T163000Z
 DTEND:20261027T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2083172-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
@@ -7060,7 +7065,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
  ablissement 7705</div><hr></div><div class="hp"><div style="font-family: a
  rial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documen
  ts ici...</div></div>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Développement Durable<br/>TD : In
  g3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette sé
  ance : <br/><span style="font-weight:bold\;">contenu</span><br /><div clas
@@ -7075,7 +7080,7 @@ BEGIN:VEVENT
 SUMMARY:Développement Durable
 DTSTART:20261117T163000Z
 DTEND:20261117T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2083172-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
@@ -7087,7 +7092,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Développement Durable\nTD : Ing3 Gr DU
  ablissement 7705</div><hr></div><div class="hp"><div style="font-family: a
  rial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documen
  ts ici...</div></div>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Développement Durable<br/>TD : In
  g3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette sé
  ance : <br/><span style="font-weight:bold\;">contenu</span><br /><div clas
@@ -7102,7 +7107,7 @@ BEGIN:VEVENT
 SUMMARY:Actualites de la Géopolitique
 DTSTART:20261121T094500Z
 DTEND:20261121T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089448-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Actualites de la Géopolitique\nTD : In
@@ -7114,7 +7119,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Actualites de la Géopolitique\nTD : In
  code établissement 7705</div><hr></div><div class="hp"><div style="font-f
  amily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos
   documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Actualites de la Géopolitique<br/
  >TD : Ing3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de c
  ette séance : <br/><span style="font-weight:bold\;">contenu</span><br /><
@@ -7129,7 +7134,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20260926T063000Z
 DTEND:20260926T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089449-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -7141,7 +7146,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
  sement 7705</div><hr></div><div class="hp"><div style="font-family: arial
  \,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents i
  ci...</div></div>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
   DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
  : <br/><span style="font-weight:bold\;">contenu</span><br /><div class="te
@@ -7156,7 +7161,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261017T063000Z
 DTEND:20261017T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089449-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -7168,7 +7173,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
  sement 7705</div><hr></div><div class="hp"><div style="font-family: arial
  \,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents i
  ci...</div></div>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
   DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
  : <br/><span style="font-weight:bold\;">contenu</span><br /><div class="te
@@ -7183,7 +7188,7 @@ BEGIN:VEVENT
 SUMMARY:Gestion de Projet
 DTSTART:20261121T073000Z
 DTEND:20261121T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2089449-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
@@ -7195,7 +7200,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Gestion de Projet\nTD : Ing3 Gr DU01\nT
  sement 7705</div><hr></div><div class="hp"><div style="font-family: arial
  \,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos documents i
  ci...</div></div>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Gestion de Projet<br/>TD : Ing3 Gr
   DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de cette séance 
  : <br/><span style="font-weight:bold\;">contenu</span><br /><div class="te
@@ -7210,7 +7215,7 @@ BEGIN:VEVENT
 SUMMARY:Actualites de la Géopolitique
 DTSTART:20261112T073000Z
 DTEND:20261112T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2091187-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Actualites de la Géopolitique\nTD : In
@@ -7222,7 +7227,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Actualites de la Géopolitique\nTD : In
  code établissement 7705</div><hr></div><div class="hp"><div style="font-f
  amily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos
   documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Actualites de la Géopolitique<br/
  >TD : Ing3 Gr DU01<br/>Type : ELEARNING<br/><br/>Contenu pédagogique de c
  ette séance : <br/><span style="font-weight:bold\;">contenu</span><br /><
@@ -7237,7 +7242,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261105T073000Z
 DTEND:20261105T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2091188-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
@@ -7255,7 +7260,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Bases de données\nEnseignant : M. SOLT
   établissement 7705</div><hr></div><div class="hp"><div style="font-famil
  y: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos doc
  uments ici...</div></div>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Bases de données<br/>Enseignant :
   M. SOLTANI ROOZBEH<br/>TD : Ing3 Gr DU01<br/>Type : CRS-TD-CV<br/><br/>Co
  ntenu pédagogique de cette séance : <br/><span style="font-weight:bold\;
@@ -7276,7 +7281,7 @@ BEGIN:VEVENT
 SUMMARY:Soutien Prototypage élec
 DTSTART:20261105T173000Z
 DTEND:20261105T193000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2092465-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Soutien Prototypage élec\nEnseignant :
@@ -7294,7 +7299,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Soutien Prototypage élec\nEnseignant :
  SoWeSign avec le code établissement 7705</div><hr></div><div class="hp"><
  div style="font-family: arial\,helvetica\,sans-serif\; font-size: 13px\;">
  Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085211Z
+LAST-MODIFIED:20261113T103036Z
 X-ALT-DESC;FMTTYPE=text/html:Matière : Soutien Prototypage élec<br/>Ense
  ignant : M. LE GALL ALAIN<br/>TD : Ing3 Gr DU01\, Ing3 Gr SL01<br/>Type : 
  CRS-TD-CV<br/><br/>Contenu pédagogique de cette séance : <br/><span styl
@@ -7315,7 +7320,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261211T073000Z
 DTEND:20261211T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2092637-19-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Electromagnétisme\nEnseignant : Mme CR
@@ -7335,7 +7340,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261027T141500Z
 DTEND:20261027T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1986103-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -7365,7 +7370,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260929T131500Z
 DTEND:20260929T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1986111-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : FERME\nMatière : Prototypage électroniqu
@@ -7396,7 +7401,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261013T131500Z
 DTEND:20261013T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1986127-11-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -7426,7 +7431,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261110T120000Z
 DTEND:20261110T140000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1986158-15-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -7439,7 +7444,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  de établissement 7705</div><hr></div><div class="hp"><div style="font-fam
  ily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos d
  ocuments ici...</div></div>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle EM009 - Amphithéâtre - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
  ignant : M. LE GALL ALAIN<br/>TD : Ing3-AMPHI A<br/>Salle : Salle EM009 - 
@@ -7456,7 +7461,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261117T141500Z
 DTEND:20261117T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1986164-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : cloisons fermées\nMatière : Prototypage 
@@ -7469,7 +7474,7 @@ DESCRIPTION;LANGUAGE=fr:Mémo : cloisons fermées\nMatière : Prototypage
  <br><br>SoWeSign avec le code établissement 7705</div><hr></div><div clas
  s="hp"><div style="font-family: arial\,helvetica\,sans-serif\; font-size: 
  13px\;">Svp\, ajoutez vos documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085204Z
+LAST-MODIFIED:20261113T103032Z
 LOCATION;LANGUAGE=fr:Salle EM009 - Amphithéâtre - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Mémo : cloisons fermées<br/>Matière : Prot
  otypage électronique<br/>Enseignant : M. LE GALL ALAIN<br/>TD : Ing3-AMPH
@@ -7487,18 +7492,18 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261201T073000Z
 DTEND:20261201T093000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-1986175-18-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
-  M. LE GALL ALAIN\nTD : Ing3-AMPHI A\nSalle : Salle EM010 - Amphithéâtre
+  M. LE GALL ALAIN\nTD : Ing3-AMPHI A\nSalle : Salle EM009 - Amphithéâtre
   - EIFFEL 1\nType : CRS-CM\n\nContenu pédagogique de cette séance : \n<s
  pan  style="color: Silver\;"><span style="font-weight:normal\; font-style:
  italic\;">Sans titre</span></span>\n
-LAST-MODIFIED:20261110T085204Z
-LOCATION;LANGUAGE=fr:Salle EM010 - Amphithéâtre - EIFFEL 1
+LAST-MODIFIED:20261113T143255Z
+LOCATION;LANGUAGE=fr:Salle EM009 - Amphithéâtre - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
- ignant : M. LE GALL ALAIN<br/>TD : Ing3-AMPHI A<br/>Salle : Salle EM010 - 
+ ignant : M. LE GALL ALAIN<br/>TD : Ing3-AMPHI A<br/>Salle : Salle EM009 - 
  Amphithéâtre - EIFFEL 1<br/>Type : CRS-CM<br/><br/>Contenu pédagogique 
  de cette séance : <br/><span  style="color: Silver\;"><span style="font-w
  eight:normal\; font-style:italic\;">Sans titre</span></span><br/>
@@ -7507,7 +7512,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261103T141500Z
 DTEND:20261103T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2030403-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -7520,7 +7525,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  code établissement 7705</div><hr></div><div class="hp"><div style="font-f
  amily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos
   documents ici...</div></div>\n
-LAST-MODIFIED:20261110T085207Z
+LAST-MODIFIED:20261113T103034Z
 LOCATION;LANGUAGE=fr:Salle EM010 - Amphithéâtre - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
  ignant : Mme GULDNER NAJMA<br/>TD : Ing3-AMPHI A<br/>Salle : Salle EM010 -
@@ -7537,7 +7542,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261006T131500Z
 DTEND:20261006T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2055699-10-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : fermé\nMatière : Prototypage électroniq
@@ -7568,7 +7573,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260929T153000Z
 DTEND:20260929T173000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2074532-9-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Mémo : FERME\nMatière : Prototypage électroniqu
@@ -7599,7 +7604,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20261124T141500Z
 DTEND:20261124T161500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Cours-2080211-17-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
@@ -7612,7 +7617,7 @@ DESCRIPTION;LANGUAGE=fr:Matière : Prototypage électronique\nEnseignant :
  de établissement 7705</div><hr></div><div class="hp"><div style="font-fam
  ily: arial\,helvetica\,sans-serif\; font-size: 13px\;">Svp\, ajoutez vos d
  ocuments ici...</div></div>\n
-LAST-MODIFIED:20261113T074503Z
+LAST-MODIFIED:20261113T103036Z
 LOCATION;LANGUAGE=fr:Salle EM010 - Amphithéâtre - EIFFEL 1
 X-ALT-DESC;FMTTYPE=text/html:Matière : Prototypage électronique<br/>Ense
  ignant : M. LE GALL ALAIN<br/>TD : Ing3-AMPHI A<br/>Salle : Salle EM010 - 
@@ -7629,7 +7634,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20260924T063000Z
 DTEND:20260924T083000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:COURSANNULE-46874-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Reporté : \nMatière : Electromagnétisme\nEnseig
@@ -7645,7 +7650,7 @@ BEGIN:VEVENT
 SUMMARY:Prototypage électronique
 DTSTART:20260922T131500Z
 DTEND:20260922T151500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:COURSANNULE-46900-8-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Reporté : \nMatière : Prototypage électronique
@@ -7661,7 +7666,7 @@ BEGIN:VEVENT
 SUMMARY:Soutien Prototypage élec
 DTSTART:20261029T163000Z
 DTEND:20261029T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:COURSANNULE-48286-13-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Reporté : \nMatière : Soutien Prototypage élec
@@ -7676,7 +7681,7 @@ BEGIN:VEVENT
 SUMMARY:Bases de données
 DTSTART:20261103T163000Z
 DTEND:20261103T183000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:COURSANNULE-48365-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Reporté : \nMatière : Bases de données\nEnseign
@@ -7692,7 +7697,7 @@ BEGIN:VEVENT
 SUMMARY:Soutien Prototypage élec
 DTSTART:20261104T173000Z
 DTEND:20261104T193000Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:COURSANNULE-48553-14-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Reporté : \nMatière : Soutien Prototypage élec
@@ -7707,7 +7712,7 @@ BEGIN:VEVENT
 SUMMARY:Electromagnétisme
 DTSTART:20261120T094500Z
 DTEND:20261120T114500Z
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:COURSANNULE-48689-16-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 DESCRIPTION;LANGUAGE=fr:Reporté : \nMatière : Electromagnétisme\nEnseig
@@ -7725,7 +7730,7 @@ BEGIN:VEVENT
 SUMMARY:Férié
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Ferie-693-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 END:VEVENT
@@ -7733,7 +7738,7 @@ BEGIN:VEVENT
 SUMMARY:Férié
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Ferie-694-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 END:VEVENT
@@ -7741,7 +7746,7 @@ BEGIN:VEVENT
 SUMMARY:Férié
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Ferie-695-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 END:VEVENT
@@ -7749,7 +7754,7 @@ BEGIN:VEVENT
 SUMMARY:Férié
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20261113T081603Z
+DTSTAMP:20261113T163549Z
 UID:Ferie-696-GROSLIERE_Lucas-Index-Education
 CATEGORIES:HYPERPLANNING
 END:VEVENT
